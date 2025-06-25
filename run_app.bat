@@ -1,3 +1,3 @@
 @echo off
-python3.12 -m streamlit run app.py
+python3.11.9 -m streamlit run app.py
 pause
