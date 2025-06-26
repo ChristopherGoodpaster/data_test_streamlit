@@ -92,7 +92,7 @@ streamlit run app.py
 
 | Module | Dataset Source       | Script                 | Notes         |
 | ------ | -------------------- | ---------------------- | ------------- |
-| 1      | LendingClub (Kaggle) | `lendingclub_clean.py` | You're here ✅ |
+| 1      | LendingClub (Kaggle) | `lendingclub_clean.py` | Done          |
 | 2      | Fannie Mae CRT       | `fanniemae_clean.py`   | Coming soon   |
 | 3      | SBA 7(a)/504 Loans   | `sba_clean.py`         | Coming soon   |
 | 4      | PPP & Disaster Loans | `ppp_clean.py`         | Coming soon   |
