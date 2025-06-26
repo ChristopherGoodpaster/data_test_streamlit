@@ -103,4 +103,4 @@ streamlit run app.py
 ## 🧠 Author
 
 **Chris Goodpaster**
-📧 \[LinkedIn]\([https://www.linkedin.com/in/christop](https://www.linkedin.com/in/christop)
+📧 \[LinkedIn]\[https://www.linkedin.com/in/christopher-goodpaster-79320542/]
