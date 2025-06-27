@@ -1,38 +1,36 @@
-# data_test_streamlit
+# Multi-Source Loan Risk Analytics Dashboard
 
-# 🧠 LendingClub Loan Risk Analysis (Module 1)
+This project is a modular, expandable analytics dashboard designed to evaluate loan risk across multiple U.S. lending datasets using **Python, pandas, and Streamlit**. The platform integrates public and synthetic data to generate cleaned outputs, visual dashboards, and risk insights.
 
-This project analyzes peer-to-peer loan performance using LendingClub’s historical data from 2007 to 2018. It is **Module 1** of a larger multi-source loan risk dashboard built with **Python, pandas, and Streamlit**.
-
-> ✅ Includes full data pipeline: ingestion, cleaning, target labeling, and export
-> ✅ Final data is used in a shared Streamlit dashboard (`app.py`) for visualization
+>  Each module supports a separate dataset with tailored cleaning and analysis
+>  Final outputs are integrated into a unified Streamlit dashboard with multipage navigation
 
 ---
 
-## 🔍 What This Project Does
+## What This Project Does
 
-* Cleans LendingClub loan data (\~2.2M records)
-* Selects relevant financial and credit risk fields
-* Creates a binary loan outcome (`Fully Paid` = 0, `Charged Off/Default` = 1)
-* Outputs a cleaned dataset ready for modeling or visualization
+* Cleans, standardizes, and models data from various loan-related datasets
+* Creates binary and categorical risk outcomes
+* Outputs consistent files for modeling, reporting, and visualization
+* Enables dashboard navigation across multiple loan sources (LendingClub, Fannie Mae, SBA, PPP, Synthetic)
 
 ---
 
-## 📁 Folder Structure
+## Folder Structure
 
 ```
 project_root/
 ├── data/
-│   ├── accepted_2007_to_2018Q4.csv       # Raw Kaggle dataset
-│   └── lendingclub_processed.csv         # Cleaned output
-├── lendingclub_clean.py                  # Cleaning script
+│   ├── accepted_2007_to_2018Q4.csv       # LendingClub raw data
+│   └── lendingclub_processed.csv         # LendingClub cleaned data
+├── lendingclub_clean.py                  # LendingClub cleaning script
 ├── app.py                                # Streamlit dashboard (shared)
 ├── README.md                             # You're reading it
 ```
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ### 1. Install dependencies
 
@@ -40,30 +38,19 @@ project_root/
 pip install pandas numpy streamlit
 ```
 
-### 2. Download and unzip the dataset
+### 2. Download and unzip applicable datasets:
 
-From Kaggle:
-[LendingClub Loan Data (2007–2018)](https://www.kaggle.com/datasets/wordsforthewise/lending-club)
+* LendingClub Loan Data (2007–2018): [https://www.kaggle.com/datasets/wordsforthewise/lending-club](https://www.kaggle.com/datasets/wordsforthewise/lending-club)
 
-Place the file in the `data/` folder as:
+Place files in `data/`, then run the corresponding cleaning scripts.
 
-```
-data/accepted_2007_to_2018Q4.csv
-```
-
-### 3. Run the cleaning script
+### 3. Run a cleaning script
 
 ```bash
 python lendingclub_clean.py
 ```
 
-This will create:
-
-```
-data/lendingclub_processed.csv
-```
-
-### 4. (Optional) Launch the Streamlit dashboard
+### 4. Launch the Streamlit dashboard
 
 ```bash
 streamlit run app.py
@@ -71,36 +58,48 @@ streamlit run app.py
 
 ---
 
-## 📦 Requirements
+##  Requirements
 
 * Python 3.8+
 * pandas
 * numpy
-* streamlit (optional for dashboard)
+* streamlit
 
 ---
 
-## ✅ Outputs
+##  Outputs
 
-* Cleaned CSV for modeling or analysis
-* Ready-to-use input for `app.py` dashboard
-* Modular structure supports expansion with other loan datasets (Fannie Mae, SBA, etc.)
+* Cleaned CSVs per module
+* Unified Streamlit dashboard with multi-dataset navigation
+* Ready for ML modeling or financial analysis/reporting
 
 ---
 
-## 📙 Part of a Multi-Module Risk Analytics Platform
+##  Part of a Multi-Module Risk Analytics Platform
 
-| Module | Dataset Source       | Script                 | Notes         |
-| ------ | -------------------- | ---------------------- | ------------- |
-| 1      | LendingClub (Kaggle) | `lendingclub_clean.py` | Done          |
-| 2      | Fannie Mae CRT       | `fanniemae_clean.py`   | Coming soon   |
-| 3      | SBA 7(a)/504 Loans   | `sba_clean.py`         | Coming soon   |
-| 4      | PPP & Disaster Loans | `ppp_clean.py`         | Coming soon   |
-| 5      | Synthetic/NLP Loans  | `synthetic_clean.py`   | Coming soon   |
+| Module | Dataset Source               | Script                 | Description                                                  | Status      |
+| ------ | ---------------------------- | ---------------------- | ------------------------------------------------------------ | ----------- |
+| 1      | LendingClub (Kaggle)         | `lendingclub_clean.py` | Peer-to-peer lending (2007–2018)                             |   Complete  |
+| 2      | Fannie Mae Loan Performance  | `fanniemae_clean.py`   | Mortgage loan performance data (updated quarterly)           | Coming soon |
+| 3      | SBA 7(a)/504 Loans           | `sba_clean.py`         | Government small business lending performance                | Coming soon |
+| 4      | PPP & Disaster Loans         | `ppp_clean.py`         | COVID-era Paycheck Protection Program and disaster relief    | Coming soon |
+| 5      | Synthetic NLP-Enhanced Loans | `synthetic_clean.py`   | Simulated loan applications w/ text fields for risk modeling | Coming soon |
+
+---
+
+## Planned Enhancements
+
+* [ ] Add secure user authentication to the Streamlit app (basic email + password login)
+* [ ] Enable multi-page navigation to segment dashboards by dataset (LendingClub, Fannie Mae, SBA, etc.)
+* [ ] Integrate multiple charts and metrics per dataset for comparative risk analysis
+* [ ] Include markdown sections to explain each dataset’s context, assumptions, and insights
+* [ ] Add functionality for users to download cleaned data per module
+* [ ] Optional: Link APIs for live refresh (e.g., SBA, USASpending)
 
 ---
 
 ## 🧠 Author
 
 **Chris Goodpaster**
-📧 \[LinkedIn]\[https://www.linkedin.com/in/christopher-goodpaster-79320542/]
+📧 [LinkedIn](https://www.linkedin.com/in/christopher-goodpaster-79320542/)
+🔧 [GitHub](https://github.com/ChristopherGoodpaster)
