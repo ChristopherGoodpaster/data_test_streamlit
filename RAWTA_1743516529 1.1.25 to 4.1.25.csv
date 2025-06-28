@@ -1,0 +1,995 @@
+﻿Date,EmpID,Last Name,First Name,Event,Position,Time In,Time Out,Break (min),Meal (min),Hours
+1/2/2025,1019,Genetti,Greg,TASTING.Schad,Tasting Chef,02:00p,05:00p,0,0,3
+1/2/2025,1006,Storm,Jamie,TASTING.Schad,Tasting Server,02:00p,05:00p,0,0,3
+1/3/2025,1023,Cole,Lacy,Production Assistant,commissary production and/or delivery,10:04a,04:51p,0,0,6.78
+1/3/2025,1019,Genetti,Greg,TASTING.W&B.Rosenberg-Meyer,Tasting Chef,11:00a,01:00p,0,0,2
+1/3/2025,1019,Genetti,Greg,TASTING.Franklin-Harper,Tasting Chef,01:30p,03:00p,0,0,1.5
+1/3/2025,1028,Reis,Jess,TASTING.W&B.Rosenberg-Meyer,Tasting Server,10:30a,02:00p,0,0,3.5
+1/3/2025,1028,Reis,Jess,TASTING.Franklin-Harper,Tasting Server,01:30p,04:30p,0,0,3
+1/4/2025,,Briones JTC,Tabitha,TCCCT.Pellegrini Clark.Seated Dinner.,*Server (All),02:30p,10:30p,0,0,8
+1/4/2025,1023,Cole,Lacy,TCCCT.Pellegrini Clark.Seated Dinner.,*server (all) load/Drive,01:00p,11:15p,0,0,10.25
+1/4/2025,,Downton,#NAME?,TCCCT.Pellegrini Clark.Seated Dinner.,*Server (All),02:30p,10:30p,0,0,8
+1/4/2025,1239,Duerk JTC,Susan,TCCCT.Pellegrini Clark.Seated Dinner.,*Bartender/Server,02:30p,10:30p,0,0,8
+1/4/2025,1236,Hensley-JTC,Diana,TCCCT.Pellegrini Clark.Seated Dinner.,*Bartender/Server,02:30p,10:30p,0,0,8
+1/4/2025,1260,Humphrey JTC,#NAME?,TCCCT.Pellegrini Clark.Seated Dinner.,*Server (All),02:30p,10:30p,0,0,8
+1/4/2025,2100,Kinkele,Kari,TCCCT.Pellegrini Clark.Seated Dinner.,*Server (All),02:30p,10:30p,0,0,8
+1/4/2025,1055,Martin,Sam,TCCCT.Pellegrini Clark.Seated Dinner.,*Chef,02:30p,09:00p,0,0,6.5
+1/4/2025,2165,McGraw,Lisa,TCCCT.Pellegrini Clark.Seated Dinner.,*Server (All),02:30p,10:30p,0,0,8
+1/4/2025,1044,Norris,Melissa,TCCCT.Pellegrini Clark.Seated Dinner.,*Server (All),02:30p,10:30p,0,0,8
+1/4/2025,1058,Read,Brennan,TCCCT.Pellegrini Clark.Seated Dinner.,*KA,02:30p,09:00p,0,0,6.5
+1/4/2025,1374,Robbins JTC,#NAME?,TCCCT.Pellegrini Clark.Seated Dinner.,*Server (All),02:30p,10:30p,0,0,8
+1/4/2025,1091,Smith,Zathian,TCCCT.Pellegrini Clark.Seated Dinner.,*KA,02:30p,09:00p,0,0,6.5
+1/4/2025,1237,Stickrod,#NAME?,TCCCT.Pellegrini Clark.Seated Dinner.,*Captain,01:45p,10:45p,0,0,9
+1/4/2025,,Stickrod JTC,Catrina,TCCCT.Pellegrini Clark.Seated Dinner.,*Server (All),02:30p,10:30p,0,0,8
+1/5/2025,2161,Gaines,Winston,UC Huelett.PSOHD,*Server (All),11:00a,02:00p,0,0,3
+1/5/2025,1005,Kettman,Christi,UC Huelett.PSOHD,*Captain,11:00a,02:00p,0,0,3
+1/5/2025,2100,Kinkele,Kari,UC Huelett.PSOHD,*Server (All),11:00a,11:30a,0,0,0.5
+1/5/2025,1028,Reis,Jess,UC Huelett.PSOHD,*Chef Server (Load/Drive),09:30a,03:00p,0,0,5.5
+1/5/2025,1060,Valio,Fabricio,UC Huelett.PSOHD,*Server (All),11:00a,02:00p,0,0,3
+1/5/2025,1143,Walker,Wendell,UC Huelett.PSOHD,*Server (All),11:30a,02:00p,0,0,2.5
+1/7/2025,2100,Kinkele,Kari,CAA.Lock.Buffet Dinner,*Server (All),02:00p,07:00p,0,0,5
+1/7/2025,1028,Reis,Jess,production meetin,commissary production and/or delivery,12:00a,12:00a,0,0,0
+1/7/2025,1006,Storm,Jamie,CAA.Lock.Buffet Dinner,*Chef Server (Load/Drive),12:30p,07:00p,0,0,6.5
+1/7/2025,1143,Walker,Wendell,CAA.Lock.Buffet Dinner,*Server (All),02:15p,07:00p,0,0,4.75
+1/8/2025,1063,Barton,Marlee,Production Assistant,commissary production and/or delivery,10:04a,05:06p,0,0,7.03
+1/8/2025,1023,Cole,Lacy,Production Assistant,commissary production and/or delivery,10:17a,05:06p,0,0,6.82
+1/8/2025,1062,McKenzie,Jacob,TASTING.TAP.Gorman-Dursick,Tasting Chef,12:00a,12:00a,0,0,0
+1/8/2025,1062,McKenzie,Jacob,TASTINGS.Lehmann Klug & TAP Gorman,Tasting Chef,11:00a,03:00p,0,0,4
+1/8/2025,1006,Storm,Jamie,TASTINGS.Lehmann Klug & TAP Gorman,Tasting Server,11:00a,05:45p,0,0,6.75
+1/9/2025,1063,Barton,Marlee,Production Assistant/Delivery,commissary production and/or delivery,07:16a,01:22p,0,0,6.1
+1/9/2025,1023,Cole,Lacy,Production Assistant/Delivery,commissary production and/or delivery,10:03a,04:08p,0,0,6.08
+1/9/2025,2100,Kinkele,Kari,CEPC.Griesinger.SOHD,*Server (All),02:30p,07:00p,0,0,4.5
+1/9/2025,2165,McGraw,Lisa,CEPC.Griesinger.SOHD,*Bartender/Server,02:30p,07:15p,0,0,4.75
+1/9/2025,1058,Read,Brennan,2 TASTINGS.Carmosino-Wilcox,Tasting Chef,11:00a,01:30p,0,0,2.5
+1/9/2025,1058,Read,Brennan,TASTING.TCCCT.Friskney Mulligan,Tasting Chef,01:30p,04:30p,0,0,3
+1/9/2025,1028,Reis,Jess,2 TASTINGS.Carmosino-Wilcox,Tasting Server,11:00a,01:30p,0,0,2.5
+1/9/2025,1028,Reis,Jess,TASTING.TCCCT.Friskney Mulligan,Tasting Server,01:30p,04:30p,0,0,3
+1/9/2025,1210,Zins,Matt,CEPC.Griesinger.SOHD,*Chef Server (Load/Drive),02:15p,07:00p,0,0,4.75
+1/10/2025,1023,Cole,Lacy,Production Assistant,commissary production and/or delivery,09:18a,04:21p,0,0,7.05
+1/10/2025,1019,Genetti,Greg,TASTING.TCCCT.Schwarz Katz,Tasting Chef,12:00a,12:00a,0,0,0
+1/10/2025,1019,Genetti,Greg,TASTING.Phelps-Wehling.Seated Dinner,Tasting Chef,01:00p,04:30p,0,0,3.5
+1/10/2025,1028,Reis,Jess,TASTING.TCCCT.Schwarz Katz,Tasting Server,10:45a,01:00p,0,0,2.25
+1/10/2025,1028,Reis,Jess,TASTING.Phelps-Wehling.Seated Dinner,Tasting Server,01:00p,04:30p,0,0,3.5
+1/11/2025,1245,#NAME?,#NAME?,TCCCT.Bailey Imm.Seated Dinner.,*Bartender/Server,01:00p,10:45p,0,0,9.75
+1/11/2025,1003,Brindley,Scott,*Bayer Becker Buffet Dinner,*Captain,03:45p,11:00p,0,0,7.25
+1/11/2025,,Briones JTC,Tabitha,TCCCT.Bailey Imm.Seated Dinner.,*Server (All),01:00p,10:45p,0,0,9.75
+1/11/2025,,Briones JTC,Yasmin,TCCCT.Bailey Imm.Seated Dinner.,*Server (All),01:00p,10:45p,0,0,9.75
+1/11/2025,1023,Cole,Lacy,Schaefer.Miller.PSOHD+station,*server (all) load/Drive,02:30p,10:45p,0,0,8.25
+1/11/2025,1082,Collins,Jennifer,Schaefer.Miller.PSOHD+station,*KA,04:00p,09:00p,0,0,5
+1/11/2025,1030,Diebold,Jon,TCCCT.Bailey Imm.Seated Dinner.,*KA,01:00p,08:45p,0,0,7.75
+1/11/2025,,Downton,#NAME?,TCCCT.Bailey Imm.Seated Dinner.,*Server (All),12:00a,12:00a,0,0,0
+1/11/2025,1239,Duerk JTC,Susan,TCCCT.Bailey Imm.Seated Dinner.,*Bartender/Server,01:00p,10:45p,0,0,9.75
+1/11/2025,1242,Estvanko JTC,Amber,TCCCT.Bailey Imm.Seated Dinner.,*Server (All),12:00a,12:00a,0,0,0
+1/11/2025,1116,Flores,Astrid,TCCCT.Bailey Imm.Seated Dinner.,*Server (All),01:00p,10:45p,0,0,9.75
+1/11/2025,2161,Gaines,Winston,Schaefer.Miller.PSOHD+station,*Server (All),04:00p,10:45p,0,0,6.75
+1/11/2025,1019,Genetti,Greg,TCCCT.Bailey Imm.Seated Dinner.,*Chef,01:00p,08:45p,0,0,7.75
+1/11/2025,1103,Gugino,Ava,TCCCT.Bailey Imm.Seated Dinner.,*Server (All),12:00a,12:00a,0,0,0
+1/11/2025,1315,Harding JTC,Thomas,TCCCT.Bailey Imm.Seated Dinner.,*Server (All),01:00p,10:45p,0,0,9.75
+1/11/2025,1236,Hensley-JTC,Diana,TCCCT.Bailey Imm.Seated Dinner.,*Bartender/Server,01:00p,10:45p,0,0,9.75
+1/11/2025,1260,Humphrey JTC,#NAME?,TCCCT.Bailey Imm.Seated Dinner.,*Server (All),01:00p,10:45p,0,0,9.75
+1/11/2025,1004,Jacobs,Brittani,*Bayer Becker Buffet Dinner,*server (all) load/Drive,02:30p,10:45p,0,0,8.25
+1/11/2025,1035,Kaufman,Seth,TCCCT.Bailey Imm.Seated Dinner.,*server (all) load/Drive,11:30a,11:15p,0,0,11.75
+1/11/2025,1005,Kettman,Christi,Schaefer.Miller.PSOHD+station,*Captain,03:30p,10:00p,0,0,6.5
+1/11/2025,,Killion JTC,#NAME?,TCCCT.Bailey Imm.Seated Dinner.,*Server (All),02:00p,10:45p,0,0,8.75
+1/11/2025,2100,Kinkele,Kari,Schaefer.Miller.PSOHD+station,*Server (All),04:00p,10:00p,0,0,6
+1/11/2025,2165,McGraw,Lisa,Scott.PSOHD,*Bartender/Server,12:00p,06:00p,0,0,6
+1/11/2025,1062,McKenzie,Jacob,*Bayer Becker Buffet Dinner,*Chef,04:00p,09:15p,0,0,5.25
+1/11/2025,1138,McKenzie,Jasmin,*Bayer Becker Buffet Dinner,*KA,04:00p,09:15p,0,0,5.25
+1/11/2025,1106,Merchant,Andrew,*Bayer Becker Buffet Dinner,*Server (All),04:00p,10:45p,0,0,6.75
+1/11/2025,1039,Mitchell,Martin,Scott.PSOHD,*Server (All),12:00p,06:00p,0,0,6
+1/11/2025,1044,Norris,Melissa,*Bayer Becker Buffet Dinner,*Server (All),04:00p,10:45p,0,0,6.75
+1/11/2025,1252,Perdomo JTC,Monica,*Bayer Becker Buffet Dinner,*Server (All),04:00p,10:45p,0,0,6.75
+1/11/2025,2111,Ramirez,Gilberto,Schaefer.Miller.PSOHD+station,*Server (All),04:00p,10:45p,0,0,6.75
+1/11/2025,1058,Read,Brennan,Schaefer.Miller.PSOHD+station,*Chef,04:00p,09:00p,0,0,5
+1/11/2025,1028,Reis,Jess,Scott.PSOHD,*Chef Server (Load/Drive),10:00a,07:00p,0,0,9
+1/11/2025,,Rickman JTC,Samantha,TCCCT.Bailey Imm.Seated Dinner.,*Server (All),01:00p,10:45p,0,0,9.75
+1/11/2025,1374,Robbins JTC,#NAME?,TCCCT.Bailey Imm.Seated Dinner.,*Server (All),01:00p,10:45p,0,0,9.75
+1/11/2025,1091,Smith,Zathian,Schaefer.Miller.PSOHD+station,*KA,04:00p,09:00p,0,0,5
+1/11/2025,1237,Stickrod,#NAME?,TCCCT.Bailey Imm.Seated Dinner.,*Captain,01:00p,10:45p,0,0,9.75
+1/11/2025,,Stickrod JTC,Catrina,TCCCT.Bailey Imm.Seated Dinner.,*Server (All),01:00p,10:45p,0,0,9.75
+1/11/2025,2107,Stutler,Donovan,TCCCT.Bailey Imm.Seated Dinner.,*Server (All),01:00p,10:45p,0,0,9.75
+1/11/2025,1022,Williams,Scott,TCCCT.Bailey Imm.Seated Dinner.,*KA,01:00p,08:45p,0,0,7.75
+1/11/2025,1210,Zins,Matt,Scott.PSOHD,*Server (All),12:00p,06:00p,0,0,6
+1/13/2025,1063,Barton,Marlee,Production Assistant,commissary production and/or delivery,10:00a,05:00p,0,0,7
+1/13/2025,1023,Cole,Lacy,Production Assistant,commissary production and/or delivery,10:08a,05:19p,0,0,7.18
+1/14/2025,1028,Reis,Jess,production meetin,commissary production and/or delivery,12:00a,12:00a,0,0,0
+1/14/2025,1028,Reis,Jess,Production Assistant,commissary production and/or delivery,09:25a,02:44p,0,0,5.32
+1/15/2025,1063,Barton,Marlee,Production Assistant,commissary production and/or delivery,10:01a,05:02p,0,0,7.02
+1/15/2025,1023,Cole,Lacy,Production Assistant,commissary production and/or delivery,10:29a,05:09p,0,0,6.67
+1/15/2025,1055,Martin,Sam,TASTING.TCCCT.Hieatt Ottone.,Tasting Chef,10:00a,01:15p,0,0,3.25
+1/15/2025,1210,Zins,Matt,TASTING.TCCCT.Hieatt Ottone.,Tasting Server,10:00a,01:15p,0,0,3.25
+1/16/2025,1023,Cole,Lacy,TCCCT.Open House.PSOHD,*Chef Server (Load/Drive),01:30p,09:45p,0,0,8.25
+1/16/2025,,Downton,#NAME?,TCCCT.Open House.PSOHD,*Server (All),03:00p,09:00p,0,0,6
+1/16/2025,1236,Hensley-JTC,Diana,TCCCT.Open House.PSOHD,*Bartender/Server,03:00p,09:00p,0,0,6
+1/16/2025,1028,Reis,Jess,Mojave East.showcase,*Chef Server (Load/Drive),02:30p,09:00p,0,0,6.5
+1/16/2025,1037,Shewmaker,Sydney,Guttman.DISH,*Server (All),08:45a,04:00p,0,0,7.25
+1/16/2025,1237,Stickrod,#NAME?,TCCCT.Open House.PSOHD,*Chef Server (Load/Drive),01:30p,09:00p,0,0,7.5
+1/16/2025,,Stickrod JTC,Catrina,TCCCT.Open House.PSOHD,*Server (All),03:00p,09:00p,0,0,6
+1/17/2025,2166,brenner,sara,Stanken.stations.dinner,*Server (All),03:00p,11:00p,0,0,8
+1/17/2025,1148,Brooker,Jordan,Stanken.stations.dinner,*Server (All),03:00p,11:00p,0,0,8
+1/17/2025,2164,Cheney,Alexandria,Stanken.stations.dinner,*Server (All),04:00p,12:15a,0,0,8.25
+1/17/2025,1023,Cole,Lacy,TASTING.Osborn Hyde,Tasting Server,11:00a,02:30p,0,0,3.5
+1/17/2025,1023,Cole,Lacy,Artswave.Cordova.PSOHD,*Captain,03:15p,09:00p,0,0,5.75
+1/17/2025,1082,Collins,Jennifer,Stanken.stations.dinner,*KA,03:30p,11:00p,0,0,7.5
+1/17/2025,1100,Dewald,Samantha,Artswave.Cordova.PSOHD,*Chef Server (Load/Drive),01:45p,09:00p,0,0,7.25
+1/17/2025,1242,Estvanko JTC,Amber,Stanken.stations.dinner,*Server (All),03:00p,11:15p,0,0,8.25
+1/17/2025,2161,Gaines,Winston,Stanken.stations.dinner,Server (All)-Load,01:30p,12:15a,0,0,10.75
+1/17/2025,2139,Godar,Christine,MeetNKY.DAV.Quercioli.Breakfast Buffet,*Server (All),07:00a,12:00p,0,0,5
+1/17/2025,2139,Godar,Christine,Artswave.Cordova.PSOHD,*Server (All),05:00p,08:30p,0,0,3.5
+1/17/2025,2131,Jones,Tylee,Artswave.Cordova.PSOHD,*Server (All),03:30p,08:30p,0,0,5
+1/17/2025,1005,Kettman,Christi,Stanken.stations.dinner,*Captain,01:30p,11:45p,0,0,10.25
+1/17/2025,2100,Kinkele,Kari,Stanken.stations.dinner,*Server (All),05:00p,11:45p,0,0,6.75
+1/17/2025,2152,Kruthaupt,Stephanie,MeetNKY.DAV.Quercioli.Breakfast Buffet,*Server (All),07:00a,12:00p,0,0,5
+1/17/2025,2137,Littelmann,Tracy,Stanken.stations.dinner,*Server (All),03:00p,11:45p,0,0,8.75
+1/17/2025,1055,Martin,Sam,TASTING.Osborn Hyde,Tasting Chef,12:00a,12:00a,0,0,0
+1/17/2025,1055,Martin,Sam,TASTING.Morman-Mustillo,Tasting Chef,12:00a,12:00a,0,0,0
+1/17/2025,1055,Martin,Sam,Stanken.stations.dinner,*Chef,04:00p,10:00p,0,0,6
+1/17/2025,2165,McGraw,Lisa,Stanken.stations.dinner,*Server (All),03:00p,11:45p,0,0,8.75
+1/17/2025,1039,Mitchell,Martin,Stanken.stations.dinner,*Server (All),03:00p,11:45p,0,0,8.75
+1/17/2025,1057,Pabst,Aimee,Stanken.stations.dinner,*server (all) load/Drive,02:00p,12:15a,0,0,10.25
+1/17/2025,1252,Perdomo JTC,Monica,Artswave.Cordova.PSOHD,*Server (All),03:30p,08:30p,0,0,5
+1/17/2025,1328,Phillips JTC,Ginger,MeetNKY.DAV.Quercioli.Breakfast Buffet,*Server (All),07:00a,12:00p,0,0,5
+1/17/2025,2111,Ramirez,Gilberto,Artswave.Cordova.PSOHD,*Server (All),03:30p,08:30p,0,0,5
+1/17/2025,1058,Read,Brennan,TASTING.Sangeeta-Townsend,Tasting Chef,12:00a,12:00a,0,0,0
+1/17/2025,1058,Read,Brennan,Stanken.stations.dinner,*KA,06:00p,11:00p,0,0,5
+1/17/2025,1028,Reis,Jess,MeetNKY.DAV.Quercioli.Breakfast Buffet,*Chef Server (Load/Drive),06:00a,11:00a,0,0,5
+1/17/2025,1091,Smith,Zathian,Stanken.stations.dinner,*KA,04:00p,10:00p,0,0,6
+1/17/2025,1143,Walker,Wendell,Guttman.DISH,*Server (All),09:00a,04:00p,0,0,7
+1/17/2025,1210,Zins,Matt,TASTING.Osborn Hyde,Tasting Server,11:00a,03:00p,0,0,4
+1/17/2025,1210,Zins,Matt,TASTING.Morman-Mustillo,Tasting Server,01:30p,04:30p,0,0,3
+1/17/2025,1210,Zins,Matt,TASTING.Sangeeta-Townsend,Tasting Server,03:00p,07:30p,0,0,4.5
+1/18/2025,,,,Guttman.Meat Seated Dinner & Buffet,*Server (All),12:00a,12:00a,0,0,0
+1/18/2025,,,,Guttman.Meat Seated Dinner & Buffet,*Server (All),06:15p,12:15a,0,0,6
+1/18/2025,1211,Bloomer,Sara,Guttman.Kiddush Brunch Buffet,*Server (All),09:00a,02:00p,0,0,5
+1/18/2025,,Briones JTC,Tabitha,Guttman.Kiddush Brunch Buffet,*Server (All),09:00a,02:00p,0,0,5
+1/18/2025,,Briones JTC,Yasmin,Guttman.Kiddush Brunch Buffet,*Server (All),09:00a,02:00p,0,0,5
+1/18/2025,1148,Brooker,Jordan,Guttman.Meat Seated Dinner & Buffet,*Server (All),12:00a,12:00a,0,0,0
+1/18/2025,1356,Cephas JTC,Keonte,Guttman.Meat Seated Dinner & Buffet,*Server (All),12:00a,12:00a,0,0,0
+1/18/2025,1023,Cole,Lacy,Guttman.Meat Seated Dinner & Buffet,*server (all) load/Drive,03:00p,12:15a,0,0,9.25
+1/18/2025,1030,Diebold,Jon,Guttman.Kiddush Brunch Buffet,*Chef,09:00a,01:30p,0,0,4.5
+1/18/2025,1030,Diebold,Jon,Guttman.Meat Seated Dinner & Buffet,*KA,04:30p,10:30p,0,0,6
+1/18/2025,1239,Duerk JTC,Susan,Guttman.Meat Seated Dinner & Buffet,*Server (All),04:30p,11:45p,0,0,7.25
+1/18/2025,1015,Dyas,Krissy,Guttman.Meat Seated Dinner & Buffet,*Bartender/Server,04:15p,12:15a,0,0,8
+1/18/2025,1116,Flores,Astrid,Guttman.Kiddush Brunch Buffet,*Server (All),09:00a,02:00p,0,0,5
+1/18/2025,2161,Gaines,Winston,Guttman.Meat Seated Dinner & Buffet,*Server (All),04:30p,11:45p,0,0,7.25
+1/18/2025,1019,Genetti,Greg,Guttman.Meat Seated Dinner & Buffet,*Chef,04:30p,10:30p,0,0,6
+1/18/2025,2139,Godar,Christine,Guttman.Kiddush Brunch Buffet,*Server (All),12:00a,12:00a,0,0,0
+1/18/2025,2155,Hagen JTC,Nicholas,Guttman.Meat Seated Dinner & Buffet,*Server (All),04:46p,11:46p,0,0,7
+1/18/2025,1315,Harding JTC,Thomas,Guttman.Kiddush Brunch Buffet,*Server (All),09:00a,02:00p,0,0,5
+1/18/2025,1275,Haubner JTC,Isaac,Guttman.Kiddush Brunch Buffet,*Server (All),01:35p,12:00a,0,0,0
+1/18/2025,1236,Hensley-JTC,Diana,Guttman.Kiddush Brunch Buffet,*Server (All),12:00a,12:00a,0,0,0
+1/18/2025,1004,Jacobs,Brittani,Guttman.Meat Seated Dinner & Buffet,Bartender - Load & Drive,03:00p,12:15a,0,0,9.25
+1/18/2025,1035,Kaufman,Seth,Guttman.Kiddush Brunch Buffet,*Server (All),09:00a,02:00p,0,0,5
+1/18/2025,1005,Kettman,Christi,Guttman.Meat Seated Dinner & Buffet,*Captain,02:30p,12:15a,0,0,9.75
+1/18/2025,2100,Kinkele,Kari,Guttman.Meat Seated Dinner & Buffet,*Server (All),04:30p,11:45p,0,0,7.25
+1/18/2025,1014,Kirschner,Steven,Guttman.Meat Seated Dinner & Buffet,*Bartender/Server,04:30p,11:45p,0,0,7.25
+1/18/2025,1034,Leahy,Andy,Guttman.Kiddush Brunch Buffet,*KA,09:00a,01:30p,0,0,4.5
+1/18/2025,1034,Leahy,Andy,Guttman.Meat Seated Dinner & Buffet,*KA,04:30p,10:30p,0,0,6
+1/18/2025,2165,McGraw,Lisa,Guttman.Kiddush Brunch Buffet,*Server (All),09:00a,02:00p,0,0,5
+1/18/2025,1039,Mitchell,Martin,Guttman.Meat Seated Dinner & Buffet,*Server (All),04:30p,11:45p,0,0,7.25
+1/18/2025,1729,Morgan,Meagan,Guttman.Meat Seated Dinner & Buffet,*Server (All),04:30p,11:45p,0,0,7.25
+1/18/2025,1044,Norris,Melissa,Guttman.Kiddush Brunch Buffet,*server (all) load/Drive,07:30a,02:30p,0,0,7
+1/18/2025,1252,Perdomo JTC,Monica,Guttman.Kiddush Brunch Buffet,*Server (All),09:00a,02:00p,0,0,5
+1/18/2025,1231,Pickett,Kulaya,Guttman.Meat Seated Dinner & Buffet,*Server (All),04:30p,11:45p,0,0,7.25
+1/18/2025,2111,Ramirez,Gilberto,Guttman.Kiddush Brunch Buffet,*Server (All),09:00a,02:00p,0,0,5
+1/18/2025,1028,Reis,Jess,Guttman.Kiddush Brunch Buffet,*Captain,09:00a,02:00p,0,0,5
+1/18/2025,2136,Soria,Iliana,Guttman.Meat Seated Dinner & Buffet,*Server (All),04:30p,11:45p,0,0,7.25
+1/18/2025,2107,Stutler,Donovan,Guttman.Kiddush Brunch Buffet,*Server (All),09:00a,02:00p,0,0,5
+1/18/2025,1060,Valio,Fabricio,Guttman.Kiddush Brunch Buffet,*server (all) load/Drive,07:30a,02:30p,0,0,7
+1/18/2025,1143,Walker,Wendell,Guttman.Kiddush Brunch Buffet,*Server (All),09:00a,02:00p,0,0,5
+1/18/2025,1143,Walker,Wendell,Guttman.Meat Seated Dinner & Buffet,*Server (All),04:30p,11:45p,0,0,7.25
+1/18/2025,1022,Williams,Scott,Guttman.Meat Seated Dinner & Buffet,*KA,04:30p,10:30p,0,0,6
+1/18/2025,,Zink JTC,Jill,Guttman.Meat Seated Dinner & Buffet,*Server (All),12:00a,12:00a,0,0,0
+1/18/2025,1210,Zins,Matt,Guttman.Meat Seated Dinner & Buffet,*Server (All),04:30p,11:45p,0,0,7.25
+1/20/2025,1023,Cole,Lacy,Production Assistant,commissary production and/or delivery,10:22a,04:55p,0,0,6.55
+1/21/2025,1063,Barton,Marlee,Mayfield.Brady.PSOHD,*Bartender/Server,03:00p,08:00p,0,0,5
+1/21/2025,1148,Brooker,Jordan,Mayfield.Brady.PSOHD,*Server (All),03:00p,07:30p,0,0,4.5
+1/21/2025,1028,Reis,Jess,production meetin,commissary production and/or delivery,09:20a,02:15p,0,0,4.92
+1/21/2025,1006,Storm,Jamie,Mayfield.Brady.PSOHD,*Chef Server (Load/Drive),01:30p,08:45p,0,0,7.25
+1/21/2025,1007,Teal,Brad,Mayfield.Brady.PSOHD,*Captain,03:00p,09:00p,0,0,6
+1/21/2025,1064,Whalen,Jeremy,Production Assistant,commissary production and/or delivery,12:06p,04:46p,0,0,4.67
+1/21/2025,1210,Zins,Matt,Mayfield.Brady.PSOHD,*Server (All),03:00p,08:00p,0,0,5
+1/22/2025,1063,Barton,Marlee,Production Assistant,commissary production and/or delivery,10:01a,05:59p,0,0,7.97
+1/22/2025,1023,Cole,Lacy,Production Assistant,commissary production and/or delivery,10:02a,06:03p,0,0,8.02
+1/22/2025,1062,McKenzie,Jacob,Tasting.Ballster Westerkamp,Tasting Chef,01:00p,03:00p,0,0,2
+1/22/2025,1028,Reis,Jess,Tasting.Ballster Westerkamp,Tasting Server,01:00p,05:00p,0,0,4
+1/23/2025,1063,Barton,Marlee,Production Assistant,commissary production and/or delivery,10:01a,01:59p,0,0,3.97
+1/23/2025,1063,Barton,Marlee,scpa.SETUP,*Server (All),02:00p,04:00p,0,0,2
+1/23/2025,1023,Cole,Lacy,Production Assistant,commissary production and/or delivery,10:01a,06:10p,0,0,8.15
+1/23/2025,1237,Stickrod,#NAME?,scpa.SETUP,*Chef Server (Load/Drive),02:30p,04:30p,0,0,2
+1/23/2025,,Stickrod JTC,#NAME?,scpa.SETUP,*Server (All),02:30p,04:30p,0,0,2
+1/23/2025,1006,Storm,Jamie,Drees.Showcase,*Chef Server (Load/Drive),01:30p,09:45p,0,0,8.25
+1/23/2025,1210,Zins,Matt,scpa.SETUP,*Server (All),02:00p,04:00p,0,0,2
+1/24/2025,,,,CCM.Bloemer.stations.moveable feast,*Server (All),12:00a,12:00a,0,0,0
+1/24/2025,,,,SCPA.Haas.Seated Dinner,*Server (All),04:00p,10:30p,0,0,6.5
+1/24/2025,1145,Allen,William,CCM.Bloemer.stations.moveable feast,*Server (All),03:30p,12:00a,0,0,8.5
+1/24/2025,1086,Atkinson,Hailey,SCPA.Haas.Seated Dinner,*Server (All),12:00a,12:00a,0,0,0
+1/24/2025,1265,Baker,Rachel,SCPA.Haas.Seated Dinner,*Server (All),04:00p,10:30p,0,0,6.5
+1/24/2025,1063,Barton,Marlee,Cincinnati Shakespeare.Ryan.SOHD,*Chef Server (Load/Drive),02:30p,09:00p,0,0,6.5
+1/24/2025,,Blackburn JTC,#NAME?,SCPA.Haas.Seated Dinner,*Server (All),04:00p,10:30p,0,0,6.5
+1/24/2025,2102,Blevins,Jade,SCPA.Haas.Seated Dinner,*Server (All),12:00a,12:00a,0,0,0
+1/24/2025,1211,Bloomer,Sara,SCPA.Haas.Seated Dinner,*Server (All),05:00p,10:30p,0,0,5.5
+1/24/2025,2166,brenner,sara,CCM.Bloemer.stations.moveable feast,*Server (All),03:30p,12:00a,0,0,8.5
+1/24/2025,,Briones JTC,Tabitha,SCPA.Haas.Seated Dinner,*Server (All),04:00p,10:15p,0,0,6.25
+1/24/2025,,Briones JTC,Yasmin,SCPA.Haas.Seated Dinner,*Server (All),04:00p,10:15p,0,0,6.25
+1/24/2025,1148,Brooker,Jordan,CCM.Bloemer.stations.moveable feast,*Server (All),03:30p,10:30p,0,0,7
+1/24/2025,,Buller JTC,#NAME?,SCPA.Haas.Seated Dinner,*Server (All),04:45p,10:15p,0,0,5.5
+1/24/2025,,Carter JTC,#NAME?,SCPA.Haas.Seated Dinner,*Server (All),04:00p,10:15p,0,0,6.25
+1/24/2025,1356,Cephas JTC,Keonte,SCPA.Haas.Seated Dinner,*Server (All),05:00p,10:30p,0,0,5.5
+1/24/2025,2164,Cheney,Alexandria,CCM.Bloemer.stations.moveable feast,*Server (All),03:30p,10:30p,0,0,7
+1/24/2025,1023,Cole,Lacy,CCM.Bloemer.stations.moveable feast,*Chef Server (Load/Drive),02:00p,12:00a,0,0,10
+1/24/2025,2106,Cole JTC,Brianna,SCPA.Haas.Seated Dinner,*Server (All),12:00a,12:00a,0,0,0
+1/24/2025,1082,Collins,Jennifer,CCM.Bloemer.stations.moveable feast,*KA,03:30p,10:30p,0,0,7
+1/24/2025,1201,Colvard,Caleana,SCPA.Haas.Seated Dinner,*KA,04:00p,10:30p,0,0,6.5
+1/24/2025,,Cusick JTC,#NAME?,SCPA.Haas.Seated Dinner,*Server (All),04:00p,10:15p,0,0,6.25
+1/24/2025,1253,Davidson,Halona,SCPA.Haas.Seated Dinner,*Server (All),05:00p,10:15p,0,0,5.25
+1/24/2025,1100,Dewald,Samantha,CCM.Bloemer.stations.moveable feast,*Chef Server (Load/Drive),02:00p,11:30p,0,0,9.5
+1/24/2025,1030,Diebold,Jon,SCPA.Haas.Seated Dinner,*KA,04:00p,10:30p,0,0,6.5
+1/24/2025,,Downton,#NAME?,SCPA.Haas.Seated Dinner,*Server (All),04:00p,10:30p,0,0,6.5
+1/24/2025,1239,Duerk JTC,Susan,CCM.Bloemer.stations.moveable feast,*Bartender/Server,03:30p,12:00a,0,0,8.5
+1/24/2025,1242,Estvanko JTC,Amber,CCM.Bloemer.stations.moveable feast,Chef/Server,03:30p,12:00a,0,0,8.5
+1/24/2025,1041,Field,Stephanie,CCM.Bloemer.stations.moveable feast,*Server (All),03:30p,12:00a,0,0,8.5
+1/24/2025,2161,Gaines,Winston,SCPA.Haas.Seated Dinner,*KA,04:00p,10:30p,0,0,6.5
+1/24/2025,1019,Genetti,Greg,SCPA.Haas.Seated Dinner,*Chef,04:00p,10:30p,0,0,6.5
+1/24/2025,2139,Godar,Christine,CCM.Bloemer.stations.moveable feast,*Server (All),03:30p,11:30p,0,0,8
+1/24/2025,,Hackler,Nicholas,SCPA.Haas.Seated Dinner,*Server (All),12:00a,12:00a,0,0,0
+1/24/2025,1330,Hackler-JTC,#NAME?,CCM.Bloemer.stations.moveable feast,*Bartender/Server,12:00a,12:00a,0,0,0
+1/24/2025,1325,Hackler-JTC,#NAME?,SCPA.Haas.Seated Dinner,*Server (All),04:00p,10:30p,0,0,6.5
+1/24/2025,2155,Hagen JTC,Nicholas,SCPA.Haas.Seated Dinner,*Server (All),04:00p,10:30p,0,0,6.5
+1/24/2025,2156,Hall,Harrison,SCPA.Haas.Seated Dinner,*KA,12:00a,12:00a,0,0,0
+1/24/2025,1315,Harding JTC,Thomas,CCM.Bloemer.stations.moveable feast,Chef/Server,03:30p,12:00a,0,0,8.5
+1/24/2025,2042,Harris JTC,Wayne,CCM.Bloemer.stations.moveable feast,*Bartender/Server,03:30p,10:30p,0,0,7
+1/24/2025,,Haubner,Joshua,SCPA.Haas.Seated Dinner,*Server (All),05:00p,10:30p,0,0,5.5
+1/24/2025,1275,Haubner JTC,Isaac,SCPA.Haas.Seated Dinner,*Server (All),04:00p,10:30p,0,0,6.5
+1/24/2025,1236,Hensley-JTC,Diana,CCM.Bloemer.stations.moveable feast,*Bartender/Server,03:30p,12:00a,0,0,8.5
+1/24/2025,1352,Henson,Denise,CCM.Bloemer.stations.moveable feast,*Server (All),03:30p,12:00a,0,0,8.5
+1/24/2025,2105,Herald JTC,Skyler,SCPA.Haas.Seated Dinner,*Server (All),04:00p,10:15p,0,0,6.25
+1/24/2025,,Humphrey,Pamela,SCPA.Haas.Seated Dinner,*Server (All),04:00p,10:15p,0,0,6.25
+1/24/2025,,johnson,Ashley,SCPA.Haas.Seated Dinner,*Server (All),12:00a,12:00a,0,0,0
+1/24/2025,1326,Johnson JTC,#NAME?,SCPA.Haas.Seated Dinner,*Server (All),04:00p,10:30p,0,0,6.5
+1/24/2025,1206,Jones,Tre' Von,SCPA.Haas.Seated Dinner,*KA,04:00p,10:30p,0,0,6.5
+1/24/2025,2131,Jones,Tylee,CCM.Bloemer.stations.moveable feast,*Server (All),03:30p,10:30p,0,0,7
+1/24/2025,1245,JTC Lee,JTC Charles,CCM.Bloemer.stations.moveable feast,*Bartender/Server,03:30p,12:00a,0,0,8.5
+1/24/2025,,Killion,Chloe,CCM.Bloemer.stations.moveable feast,*Server (All),03:30p,12:00a,0,0,8.5
+1/24/2025,1243,Killion JTC,Nicole,CCM.Bloemer.stations.moveable feast,Chef/Server,03:30p,12:00a,0,0,8.5
+1/24/2025,2100,Kinkele,Kari,CCM.Bloemer.stations.moveable feast,*Server (All),04:00p,12:00a,0,0,8
+1/24/2025,2152,Kruthaupt,Stephanie,CCM.Bloemer.stations.moveable feast,*Bartender/Server,03:30p,12:00a,0,0,8.5
+1/24/2025,,Kulikowski JTC,#NAME?,SCPA.Haas.Seated Dinner,*Captain,03:00p,10:15p,0,0,7.25
+1/24/2025,2137,Littelmann,Tracy,CCM.Bloemer.stations.moveable feast,*Server (All),03:30p,12:00a,0,0,8.5
+1/24/2025,,Maley,Daniel,SCPA.Haas.Seated Dinner,*Server (All),04:00p,10:15p,0,0,6.25
+1/24/2025,1055,Martin,Sam,CCM.Bloemer.stations.moveable feast,*Chef,03:30p,11:00p,0,0,7.5
+1/24/2025,2127,Mayer JTC,David,CCM.Bloemer.stations.moveable feast,*Server (All),03:30p,10:30a,0,0,19
+1/24/2025,2165,McGraw,Lisa,CCM.Bloemer.stations.moveable feast,*Bartender/Server,03:30p,12:00a,0,0,8.5
+1/24/2025,1106,Merchant,Andrew,SCPA.Haas.Seated Dinner,*Server (All),05:00p,10:30p,0,0,5.5
+1/24/2025,,Metzger,Amy,SCPA.Haas.Seated Dinner,*Server (All),04:00p,10:30p,0,0,6.5
+1/24/2025,1039,Mitchell,Martin,CCM.Bloemer.stations.moveable feast,*Bartender/Server,03:30p,10:30p,0,0,7
+1/24/2025,1729,Morgan,Meagan,SCPA.Haas.Seated Dinner,*Server (All),12:00a,12:00a,0,0,0
+1/24/2025,1057,Pabst,Aimee,SCPA.Haas.Seated Dinner,*server (all) load/Drive,02:30p,11:30p,0,0,9
+1/24/2025,1252,Perdomo JTC,Monica,SCPA.Haas.Seated Dinner,*Server (All),04:00p,10:15p,0,0,6.25
+1/24/2025,1045,Perez,Ana,CCM.Bloemer.stations.moveable feast,*KA,03:30p,10:30p,0,0,7
+1/24/2025,1163,Perez,Marysabel,CCM.Bloemer.stations.moveable feast,*Server (All),05:30p,12:00a,0,0,6.5
+1/24/2025,,Peters,Jeremy,CCM.Bloemer.stations.moveable feast,*KA,03:30p,10:30p,0,0,7
+1/24/2025,1328,Phillips JTC,Ginger,SCPA.Haas.Seated Dinner,*Server (All),04:00p,10:30p,0,0,6.5
+1/24/2025,2130,Radford,Megan,Cincinnati Shakespeare.Ryan.SOHD,*Server (All),04:00p,09:00p,0,0,5
+1/24/2025,2111,Ramirez,Gilberto,SCPA.Haas.Seated Dinner,*Server (All),04:00p,10:30p,0,0,6.5
+1/24/2025,1058,Read,Brennan,CCM.Bloemer.stations.moveable feast,*KA,03:30p,10:30p,0,0,7
+1/24/2025,1016,Rehage,Deb,SCPA.Haas.Seated Dinner,*Server (All),12:00a,12:00a,0,0,0
+1/24/2025,1028,Reis,Jess,CCM.Bloemer.stations.moveable feast,*Captain,12:30p,12:00a,0,0,11.5
+1/24/2025,1289,Renner,Isaac,CCM.Bloemer.stations.moveable feast,*Server (All),03:30p,12:00a,0,0,8.5
+1/24/2025,,Renner,Noah,CCM.Bloemer.stations.moveable feast,*Server (All),04:30p,12:00a,0,0,7.5
+1/24/2025,,Rickman JTC,Samantha,SCPA.Haas.Seated Dinner,*Captain,05:00p,10:15p,0,0,5.25
+1/24/2025,1335,Roaden,Sarah,CCM.Bloemer.stations.moveable feast,Bar Captain,03:00p,12:00a,0,0,9
+1/24/2025,1374,Robbins JTC,#NAME?,CCM.Bloemer.stations.moveable feast,*Bartender/Server,03:30p,12:00a,0,0,8.5
+1/24/2025,,Roberts,Steven,SCPA.Haas.Seated Dinner,*KA,04:00p,10:30p,0,0,6.5
+1/24/2025,1232,Schiegenberg JTC,Marion,CCM.Bloemer.stations.moveable feast,*Bartender/Server,03:30p,12:00a,0,0,8.5
+1/24/2025,1037,Shewmaker,Sydney,Cincinnati Shakespeare.Ryan.SOHD,*Server (All),04:00p,09:00p,0,0,5
+1/24/2025,1091,Smith,Zathian,CCM.Bloemer.stations.moveable feast,*KA,03:30p,10:30p,0,0,7
+1/24/2025,2136,Soria,Iliana,SCPA.Haas.Seated Dinner,*Server (All),12:00a,12:00a,0,0,0
+1/24/2025,1237,Stickrod,#NAME?,CCM.Bloemer.stations.moveable feast,*Captain,02:00p,12:00a,0,0,10
+1/24/2025,1073,Stuart,Jackie,CCM.Bloemer.stations.moveable feast,*Server (All),03:30p,12:00a,0,0,8.5
+1/24/2025,2107,Stutler,Donovan,SCPA.Haas.Seated Dinner,*Server (All),12:00a,12:00a,0,0,0
+1/24/2025,1007,Teal,Brad,SCPA.Haas.Seated Dinner,*server (all) load/Drive,02:30p,11:30p,0,0,9
+1/24/2025,1225,Teran,Roberta,CCM.Bloemer.stations.moveable feast,*Bartender/Server,03:30p,10:30p,0,0,7
+1/24/2025,,Thomas JTC,#NAME?,SCPA.Haas.Seated Dinner,*Server (All),12:00a,12:00a,0,0,0
+1/24/2025,1143,Walker,Wendell,CCM.Bloemer.stations.moveable feast,*Server (All),03:30p,11:30p,0,0,8
+1/24/2025,1064,Whalen,Jeremy,warehouse help/delivery,*server (all) load/Drive,09:03a,12:03a,0,0,15
+1/24/2025,1064,Whalen,Jeremy,CCM.Bloemer.stations.moveable feast,*Chef Server (Load/Drive),02:00p,12:00a,0,0,10
+1/24/2025,1022,Williams,Scott,CCM.Bloemer.stations.moveable feast,*KA,03:30p,10:30p,0,0,7
+1/24/2025,1210,Zins,Matt,CCM.Bloemer.stations.moveable feast,*Chef Server (Load/Drive),02:00p,11:30p,0,0,9.5
+1/25/2025,1003,Brindley,Scott,Wadih.PSOHD,*Chef Server (Load/Drive),03:30p,11:15p,0,0,7.75
+1/25/2025,,Briones JTC,Tabitha,Gruber & Shapiro Wedding,*Server (All),03:00p,11:30p,0,0,8.5
+1/25/2025,,Briones JTC,Yasmin,Gruber & Shapiro Wedding,*Server (All),03:00p,11:30p,0,0,8.5
+1/25/2025,1023,Cole,Lacy,Wadih.PSOHD,*Server (All),05:00p,11:15p,0,0,6.25
+1/25/2025,1082,Collins,Jennifer,Gruber & Shapiro Wedding,*KA,02:00p,08:30p,0,0,6.5
+1/25/2025,1030,Diebold,Jon,Gruber & Shapiro Wedding,*KA,02:00p,08:30p,0,0,6.5
+1/25/2025,,Downton,#NAME?,Gruber & Shapiro Wedding,*Server (All),03:00p,11:30p,0,0,8.5
+1/25/2025,1239,Duerk JTC,Susan,Gruber & Shapiro Wedding,*Bartender/Server,03:00p,11:30p,0,0,8.5
+1/25/2025,1242,Estvanko JTC,Amber,Gruber & Shapiro Wedding,*Server (All),03:00p,11:30p,0,0,8.5
+1/25/2025,1236,Hensley-JTC,Diana,Gruber & Shapiro Wedding,*Bartender/Server,03:00p,11:30p,0,0,8.5
+1/25/2025,,Humphrey,Pamela,Gruber & Shapiro Wedding,*Server (All),03:00p,11:30p,0,0,8.5
+1/25/2025,1245,JTC Lee,JTC Charles,Gruber & Shapiro Wedding,*Bartender/Server,12:00a,12:00a,0,0,0
+1/25/2025,1243,Killion JTC,Nicole,Gruber & Shapiro Wedding,*Server (All),03:00p,11:30p,0,0,8.5
+1/25/2025,2165,McGraw,Lisa,Wadih.PSOHD,*Server (All),05:00p,10:45p,0,0,5.75
+1/25/2025,1062,McKenzie,Jacob,Gruber & Shapiro Wedding,*Chef,03:00p,08:30p,0,0,5.5
+1/25/2025,1044,Norris,Melissa,Wadih.PSOHD,*Server (All),05:00p,10:45p,0,0,5.75
+1/25/2025,1328,Phillips JTC,Ginger,Gruber & Shapiro Wedding,*Server (All),03:00p,11:30p,0,0,8.5
+1/25/2025,1374,Robbins JTC,#NAME?,Gruber & Shapiro Wedding,*Server (All),03:00p,11:30p,0,0,8.5
+1/25/2025,1237,Stickrod,#NAME?,Gruber & Shapiro Wedding,*Captain,01:30p,11:30p,0,0,10
+1/25/2025,,Stickrod JTC,#NAME?,Gruber & Shapiro Wedding,*Server (All),03:00p,11:30p,0,0,8.5
+1/25/2025,1007,Teal,Brad,Gruber & Shapiro Wedding,*server (all) load/Drive,01:30p,12:30a,0,0,11
+1/27/2025,1063,Barton,Marlee,FF Whiting Seated dinner,*server (all) load/Drive,01:31p,08:30p,0,0,6.98
+1/27/2025,2165,McGraw,Lisa,FF Whiting Seated dinner,*Bartender/Server,02:58p,08:00p,0,0,5.03
+1/27/2025,1028,Reis,Jess,FF Whiting Seated dinner,*Captain,02:51p,08:00p,0,0,5.15
+1/27/2025,1022,Williams,Scott,FF Whiting Seated dinner,*Chef,03:00p,08:00p,0,0,5
+1/28/2025,1028,Reis,Jess,production meetin,commissary production and/or delivery,09:25a,03:27p,0,0,6.03
+1/29/2025,1063,Barton,Marlee,Production Assistant,commissary production and/or delivery,10:00a,05:00p,0,0,7
+1/29/2025,1030,Diebold,Jon,TAP.Huntington Bank.Gardner.Breakfast Buffet.2025,*Chef,05:15a,07:45a,0,0,2.5
+1/29/2025,1019,Genetti,Greg,Tastings.CCHMC.Finelli & TCCT Stephan,Tasting Chef,11:00a,05:00p,0,0,6
+1/29/2025,1028,Reis,Jess,Tastings.CCHMC.Finelli & TCCT Stephan,Tasting Server,10:54a,05:00p,0,0,6.1
+1/29/2025,1006,Storm,Jamie,TAP.Huntington Bank.Gardner.Breakfast Buffet.2025,*Chef Server (Load/Drive),05:00a,08:00a,0,0,3
+1/30/2025,1063,Barton,Marlee,Production Assistant,commissary production and/or delivery,05:57a,11:40a,0,0,5.72
+1/30/2025,1028,Reis,Jess,Tastings 1130 & 330,Tasting Server,11:30a,06:00p,0,0,6.5
+1/30/2025,1006,Storm,Jamie,Production Assistant,commissary production and/or delivery,10:09a,04:44p,0,0,6.58
+1/30/2025,1006,Storm,Jamie,Tastings 1130 & 330,Tasting Server,10:30a,12:30p,0,0,2
+1/31/2025,1148,Brooker,Jordan,AOC Good Sam Setup,*Server (All),01:00p,05:00p,0,0,4
+1/31/2025,1023,Cole,Lacy,Production Assistant,commissary production and/or delivery,06:13a,01:31p,0,0,7.3
+1/31/2025,2100,Kinkele,Kari,AOC Good Sam Setup,*Server (All),01:00p,05:00p,0,0,4
+1/31/2025,1237,Stickrod,#NAME?,AOC Good Sam Setup,*Chef Server (Load/Drive),01:00p,05:00p,0,0,4
+1/31/2025,1006,Storm,Jamie,Tastings 12 & 230 Arrival @ 11,Tasting Server,11:07a,04:56p,0,0,5.82
+1/31/2025,1064,Whalen,Jeremy,Production Assistant,commissary production and/or delivery,08:46a,01:22p,0,0,4.6
+1/31/2025,1210,Zins,Matt,Production Assistant,commissary production and/or delivery,08:50a,12:45p,0,0,3.92
+2/1/2025,1145,Allen,William,Good Sam Gala Accent,*Server (All),03:00p,10:45p,0,0,7.75
+2/1/2025,1092,Bailey,John,Good Sam Gala Accent,*Server (All),03:01p,10:45p,0,0,7.73
+2/1/2025,,Blackburn JTC,#NAME?,Good Sam Gala Accent,*Server (All),03:00p,11:30p,0,0,8.5
+2/1/2025,1211,Bloomer,Sara,Good Sam Gala Accent,*Server (All),03:00p,10:45p,0,0,7.75
+2/1/2025,1353,Breitholle,Deidre,Good Sam Gala Accent,*Server (All),04:34p,10:45p,0,0,6.18
+2/1/2025,1003,Brindley,Scott,Good Sam Gala Accent,*Captain,02:00p,12:45a,0,0,10.75
+2/1/2025,1148,Brooker,Jordan,Good Sam Gala Accent,*Server (All),03:07p,11:21p,0,0,8.23
+2/1/2025,1095,Brundidge,Krystina,Good Sam Gala Accent,*Server (All),04:00p,10:00p,0,0,6
+2/1/2025,,Buller JTC,#NAME?,Good Sam Gala Accent,*Server (All),02:46p,11:15p,0,0,8.48
+2/1/2025,,Carter JTC,#NAME?,Good Sam Gala Accent,*Server (All),03:00p,11:15p,0,0,8.25
+2/1/2025,,Clemons JTC,#NAME?,Good Sam Gala Accent,*Server (All),03:00p,11:30p,0,0,8.5
+2/1/2025,1023,Cole,Lacy,Good Sam Gala Accent,*Server (All),03:06p,11:45p,0,0,8.65
+2/1/2025,1082,Collins,Jennifer,Good Sam Gala Accent,*KA,02:38p,09:14p,0,0,6.6
+2/1/2025,,Cusick JTC,#NAME?,Good Sam Gala Accent,*Server (All),03:00p,11:15p,0,0,8.25
+2/1/2025,1253,Davidson,Halona,Good Sam Gala Accent,*Server (All),02:51p,11:36p,0,0,8.75
+2/1/2025,1100,Dewald,Samantha,Good Sam Gala Accent,*Server (All),03:05p,10:45p,0,0,7.67
+2/1/2025,1111,Dewberry,Nasir,Good Sam Gala Accent,*Server (All),02:48p,11:15p,0,0,8.45
+2/1/2025,1042,Diebold,Crissi,Good Sam Gala Accent,*Server (All),03:00p,11:30p,0,0,8.5
+2/1/2025,1030,Diebold,Jon,Good Sam Gala Accent,*KA,02:38p,09:32p,0,0,6.9
+2/1/2025,,Downton,Pamela,Good Sam Gala Accent,*Server (All),03:00p,11:15p,0,0,8.25
+2/1/2025,1239,Duerk JTC,Susan,Good Sam Gala Accent,*Server (All),02:59p,11:15p,0,0,8.27
+2/1/2025,1242,Estvanko JTC,Amber,Good Sam Gala Accent,*Server (All),03:00p,10:45p,0,0,7.75
+2/1/2025,1116,Flores,Astrid,Good Sam Gala Accent,*Server (All),10:35p,10:35p,0,0,0
+2/1/2025,2161,Gaines,Winston,Good Sam Gala Accent,*Server (All),03:00p,10:00p,0,0,7
+2/1/2025,1019,Genetti,Greg,Good Sam Gala Accent,*Chef,03:00p,10:15p,0,0,7.25
+2/1/2025,2139,Godar,Christine,Good Sam Gala Accent,*Server (All),03:00p,11:30p,0,0,8.5
+2/1/2025,2155,Hagen JTC,Nicholas,Good Sam Gala Accent,*Server (All),03:00p,11:30p,0,0,8.5
+2/1/2025,1315,Harding JTC,Thomas,Good Sam Gala Accent,*Server (All),02:39p,08:06p,0,0,5.45
+2/1/2025,2042,Harris JTC,Wayne,Good Sam Gala Accent,*Server (All),03:00p,11:15p,0,0,8.25
+2/1/2025,,Haubner,Joshua,AOC GOODSAM KITCHEN HELP,*Server (All),09:59a,01:10p,0,0,3.18
+2/1/2025,,Haubner,Joshua,Good Sam Gala Accent,*Server (All),02:58p,11:00p,0,0,8.03
+2/1/2025,1275,Haubner JTC,Isaac,Good Sam Gala Accent,*Server (All),02:58p,11:00p,0,0,8.03
+2/1/2025,1236,Hensley-JTC,Diana,Good Sam Gala Accent,*Server (All),03:00p,10:30p,0,0,7.5
+2/1/2025,1352,Henson,Denise,Good Sam Gala Accent,*Server (All),03:00p,10:45p,0,0,7.75
+2/1/2025,2105,Herald JTC,Skyler,Good Sam Gala Accent,*Server (All),03:02p,10:45p,0,0,7.72
+2/1/2025,,Humphrey,Pamela,Good Sam Gala Accent,*Server (All),03:00p,11:30p,0,0,8.5
+2/1/2025,1004,Jacobs,Brittani,Good Sam Gala Accent,*Server (All),02:55p,11:39p,0,0,8.73
+2/1/2025,2103,Jones,Tkyah,Good Sam Gala Accent,*Server (All),03:00p,11:30p,0,0,8.5
+2/1/2025,2131,Jones,Tylee,Good Sam Gala Accent,*Server (All),03:20p,11:30p,0,0,8.17
+2/1/2025,1245,JTC Lee,JTC Charles,Good Sam Gala Accent,*Server (All),03:17p,10:30p,0,0,7.22
+2/1/2025,1005,Kettman,Christi,Good Sam Gala Accent,*Captain,02:04p,12:45a,0,0,10.68
+2/1/2025,1243,Killion JTC,Nicole,Good Sam Gala Accent,*Server (All),03:34p,11:15p,0,0,7.68
+2/1/2025,2100,Kinkele,Kari,Good Sam Gala Accent,*Server (All),03:00p,11:30p,0,0,8.5
+2/1/2025,,Kulikowski JTC,#NAME?,Good Sam Gala Accent,*Server (All),03:00p,11:30p,0,0,8.5
+2/1/2025,2137,Littelmann,Tracy,Good Sam Gala Accent,*Server (All),02:55p,11:30p,0,0,8.58
+2/1/2025,1055,Martin,Sam,Good Sam Gala Accent,*Chef,03:00p,09:30p,0,0,6.5
+2/1/2025,2127,Mayer JTC,David,Good Sam Gala Accent,*Server (All),03:42p,10:45p,0,0,7.05
+2/1/2025,1062,McKenzie,Jacob,Good Sam Gala Accent,*KA,03:20p,09:18p,0,0,5.97
+2/1/2025,1138,McKenzie,Jasmin,Good Sam Gala Accent,*KA,03:20p,09:18p,0,0,5.97
+2/1/2025,1039,Mitchell,Martin,Good Sam Gala Accent,*Server (All),03:00p,10:45p,0,0,7.75
+2/1/2025,1044,Norris,Melissa,Good Sam Gala Accent,*Server (All),03:00p,11:30p,0,0,8.5
+2/1/2025,1057,Pabst,Aimee,Good Sam Gala Accent,*Server (All),04:05p,11:30p,0,0,7.42
+2/1/2025,1163,Perez,Marysabel,AOC GOODSAM KITCHEN HELP,*Server (All),10:00a,01:00p,0,0,3
+2/1/2025,1163,Perez,Marysabel,Good Sam Gala Accent,*Server (All),04:06p,11:00p,0,0,6.9
+2/1/2025,,Peters,Jeremy,Good Sam Gala Accent,*KA,03:41p,09:30p,0,0,5.82
+2/1/2025,1328,Phillips JTC,Ginger,Good Sam Gala Accent,*Server (All),03:00p,10:45p,0,0,7.75
+2/1/2025,2111,Ramirez,Gilberto,Good Sam Gala Accent,*Server (All),02:54p,11:20p,0,0,8.43
+2/1/2025,1058,Read,Brennan,Good Sam Gala Accent,*KA,03:33p,09:04p,0,0,5.52
+2/1/2025,1028,Reis,Jess,Good Sam Gala Accent,*Captain,03:00p,10:00p,0,0,7
+2/1/2025,1289,Renner,Isaac,Good Sam Gala Accent,*Server (All),02:54p,11:00p,0,0,8.1
+2/1/2025,1278,Renner,Noah,Good Sam Gala Accent,*Server (All),03:00p,11:00p,0,0,8
+2/1/2025,,Rickman JTC,Samantha,Good Sam Gala Accent,*Server (All),02:50p,10:38p,0,0,7.8
+2/1/2025,1374,Robbins JTC,#NAME?,Good Sam Gala Accent,*Server (All),03:00p,11:15p,0,0,8.25
+2/1/2025,,Roberts,Steven,Good Sam Gala Accent,*KA,03:00p,09:30p,0,0,6.5
+2/1/2025,1091,Smith,Zathian,Good Sam Gala Accent,*KA,03:00p,09:15p,0,0,6.25
+2/1/2025,1237,Stickrod,#NAME?,Good Sam Gala Accent,*Captain,03:00p,12:15a,0,0,9.25
+2/1/2025,2107,Stutler,Donovan,Good Sam Gala Accent,*Server (All),04:03p,11:41p,0,0,7.63
+2/1/2025,1007,Teal,Brad,AOC GOODSAM KITCHEN HELP,*Server (All),10:03a,06:12p,0,0,8.15
+2/1/2025,1060,Valio,Fabricio,Good Sam Gala Accent,*server (all) load/Drive,12:59p,11:56p,0,0,10.95
+2/1/2025,1143,Walker,Wendell,Good Sam Gala Accent,*Server (All),03:15p,11:00p,0,0,7.75
+2/1/2025,1210,Zins,Matt,Good Sam Gala Accent,*server (all) load/Drive,01:04p,01:09a,0,0,12.08
+2/3/2025,1063,Barton,Marlee,Production Assistant,commissary production and/or delivery,10:01a,03:55p,0,0,5.9
+2/3/2025,1023,Cole,Lacy,Production Assistant,commissary production and/or delivery,09:57a,03:59p,0,0,6.03
+2/3/2025,1007,Teal,Brad,Production Assistant,commissary production and/or delivery,10:15a,03:35p,0,0,5.33
+2/4/2025,1063,Barton,Marlee,Production Assistant,commissary production and/or delivery,10:00a,04:53p,0,0,6.88
+2/6/2025,1063,Barton,Marlee,Production Assistant,commissary production and/or delivery,10:03a,03:58p,0,0,5.92
+2/6/2025,1023,Cole,Lacy,Production Assistant,commissary production and/or delivery,10:07a,04:00p,0,0,5.88
+2/6/2025,1062,McKenzie,Jacob,TASTING.Schuh-Ross.Seated Dinner,Tasting Chef,01:30p,04:00p,0,0,2.5
+2/6/2025,1006,Storm,Jamie,TASTING.Schuh-Ross.Seated Dinner,Tasting Server,01:30p,04:30p,0,0,3
+2/7/2025,1023,Cole,Lacy,Production Assistant,commissary production and/or delivery,06:10a,02:44p,0,0,8.57
+2/7/2025,1019,Genetti,Greg,TASTING Friday,Tasting Chef,11:00a,04:00p,0,0,5
+2/7/2025,1019,Genetti,Greg,TASTING.Jobert.Vitelli.buffet dinner.,Tasting Chef,01:30p,05:30p,0,0,4
+2/7/2025,1006,Storm,Jamie,TASTING Friday,Tasting Server,11:00a,04:00p,0,0,5
+2/7/2025,1006,Storm,Jamie,TASTING.Jobert.Vitelli.buffet dinner.,Tasting Server,01:30p,05:30p,0,0,4
+2/8/2025,,,,CSO.Johnson.SOHD,*Server (All),07:00p,11:30p,0,0,4.5
+2/8/2025,1211,Bloomer,Sara,CSO.Johnson.SOHD,*Server (All),07:17p,11:40p,0,0,4.38
+2/8/2025,2165,McGraw,Lisa,CSO.Johnson.SOHD,*Server (All),06:57p,11:43p,0,0,4.77
+2/8/2025,1006,Storm,Jamie,CSO.Johnson.SOHD,*Chef Server (Load/Drive),05:47p,12:42a,0,0,6.92
+2/8/2025,1073,Stuart,Jackie,CSO.Johnson.SOHD,*Server (All),07:04p,11:46p,0,0,4.7
+2/10/2025,1145,Allen,William,Medpace.Hinger.SOHD,*Server (All),02:00p,07:00p,0,0,5
+2/10/2025,1063,Barton,Marlee,Production Assistant,commissary production and/or delivery,10:04a,02:21p,0,0,4.28
+2/10/2025,1063,Barton,Marlee,Medpace.Hinger.SOHD,*Bartender/Server,02:00p,07:00p,0,0,5
+2/10/2025,1023,Cole,Lacy,Production Assistant,commissary production and/or delivery,10:08a,02:19p,0,0,4.18
+2/10/2025,1023,Cole,Lacy,Medpace.Hinger.SOHD,*Bartender/Server,02:00p,07:00p,0,0,5
+2/10/2025,1236,Hensley-JTC,Diana,Medpace.Hinger.SOHD,*Server (All),02:00p,07:00p,0,0,5
+2/10/2025,2165,McGraw,Lisa,Medpace.Hinger.SOHD,*Server (All),02:00p,07:00p,0,0,5
+2/10/2025,1028,Reis,Jess,Medpace.Hinger.SOHD,*Captain,02:00p,07:00p,0,0,5
+2/10/2025,1006,Storm,Jamie,Medpace.Hinger.SOHD,*Chef Server (Load/Drive),12:30p,07:30p,0,0,7
+2/11/2025,1063,Barton,Marlee,Production Assistant,commissary production and/or delivery,06:30a,11:49a,0,0,5.32
+2/11/2025,1028,Reis,Jess,production meetin,commissary production and/or delivery,09:30a,12:30p,0,0,3
+2/11/2025,1006,Storm,Jamie,Production Assistant,commissary production and/or delivery,09:58a,03:38p,0,0,5.67
+2/12/2025,1063,Barton,Marlee,FCC.Mbanga.StationsDinner,*Server (All),12:00a,12:00a,0,0,0
+2/12/2025,1148,Brooker,Jordan,FCC.Mbanga.StationsDinner,*Server (All),02:31p,08:35p,0,0,6.07
+2/12/2025,1023,Cole,Lacy,Production Assistant,commissary production and/or delivery,10:07a,05:09p,0,0,7.03
+2/12/2025,1019,Genetti,Greg,Tastings (2),Tasting Chef,12:00p,03:30p,0,0,3.5
+2/12/2025,1236,Hensley-JTC,Diana,FCC.Mbanga.StationsDinner,*Server (All),02:30p,08:30p,0,0,6
+2/12/2025,2100,Kinkele,Kari,FCC.Mbanga.StationsDinner,*Server (All),02:30p,09:00p,0,0,0
+2/12/2025,1055,Martin,Sam,FCC.Mbanga.StationsDinner,*Chef,02:30p,10:00p,0,0,7.5
+2/12/2025,2165,McGraw,Lisa,FCC.Mbanga.StationsDinner,*Server (All),02:30p,08:30p,0,0,6
+2/12/2025,2130,Radford,Megan,FCC.Mbanga.StationsDinner,*Server (All),02:30p,08:30p,0,0,6
+2/12/2025,1028,Reis,Jess,FCC.Mbanga.StationsDinner,*Captain,02:30p,08:30p,0,0,6
+2/12/2025,1091,Smith,Zathian,FCC.Mbanga.StationsDinner,*KA,02:30p,08:30a,0,0,18
+2/12/2025,1006,Storm,Jamie,Tastings (2),Tasting Server,11:00a,04:30p,0,0,5.5
+2/12/2025,1007,Teal,Brad,FCC.Mbanga.StationsDinner,*server (all) load/Drive,01:00p,09:00p,0,0,8
+2/13/2025,1063,Barton,Marlee,Blue Alliance.Acuri.Lunch Buffet,*Server (All),11:00a,02:00p,0,0,3
+2/13/2025,1023,Cole,Lacy,Production Assistant,commissary production and/or delivery,06:15a,08:53a,0,0,2.63
+2/13/2025,1023,Cole,Lacy,Blue Alliance.Acuri.Lunch Buffet,*Chef Server (Load/Drive),09:30a,02:30p,0,0,5
+2/13/2025,1019,Genetti,Greg,LUNCH & TASTING,Tasting Chef,10:30a,03:00p,0,0,4.5
+2/13/2025,2165,McGraw,Lisa,Blue Alliance.Acuri.Lunch Buffet,*Server (All),11:00a,01:45p,0,0,2.75
+2/13/2025,1006,Storm,Jamie,LUNCH & TASTING,Tasting Server,10:30a,03:45p,0,0,5.25
+2/14/2025,1023,Cole,Lacy,Takeaway Store * Production Assistant,commissary production and/or delivery,08:24a,05:04p,0,0,8.67
+2/14/2025,1082,Collins,Jennifer,Songer.Seated Dinnr,*KA,03:33p,08:55p,0,0,5.37
+2/14/2025,1100,Dewald,Samantha,Songer.Seated Dinnr,*server (all) load/Drive,02:35p,10:30p,0,0,7.92
+2/14/2025,2161,Gaines,Winston,Songer.Seated Dinnr,*Server (All),04:09p,10:00p,0,0,5.85
+2/14/2025,2165,McGraw,Lisa,Songer.Seated Dinnr,*Server (All),04:04p,10:00p,0,0,5.93
+2/14/2025,1039,Mitchell,Martin,Songer.Seated Dinnr,*Server (All),03:58p,10:00p,0,0,6.03
+2/14/2025,1058,Read,Brennan,tasting 2/14,Tasting Chef,10:30a,12:15p,0,0,1.75
+2/14/2025,1058,Read,Brennan,Songer.Seated Dinnr,*Chef,03:38p,08:59p,0,0,5.35
+2/14/2025,1028,Reis,Jess,Takeaway Store * Production Assistant,commissary production and/or delivery,08:04a,02:44p,0,0,6.67
+2/14/2025,1006,Storm,Jamie,tasting 2/14,Tasting Server,10:30a,01:00p,0,0,2.5
+2/14/2025,1064,Whalen,Jeremy,Takeaway Store * Production Assistant,commissary production and/or delivery,07:58a,03:07p,0,0,7.15
+2/14/2025,1210,Zins,Matt,Songer.Seated Dinnr,*Captain,04:13p,10:00p,0,0,5.78
+2/15/2025,1023,Cole,Lacy,Gabbard.LunchBuffet,*Chef Server (Load/Drive),08:00a,02:30p,0,0,6.5
+2/15/2025,1015,Dyas,Krissy,Sparks.PSOHD Dinner,*Captain,03:30p,10:30p,0,0,7
+2/15/2025,2155,Hagen JTC,Nicholas,Sparks.PSOHD Dinner,*Server (All),04:00p,10:30p,0,0,6.5
+2/15/2025,1236,Hensley-JTC,Diana,Gomez.PSOHD,*Server (All),01:00p,06:00p,0,0,5
+2/15/2025,1004,Jacobs,Brittani,Sparks.PSOHD Dinner,*Bartender/Server,04:00p,10:00p,0,0,6
+2/15/2025,1035,Kaufman,Seth,Sparks.PSOHD Dinner,*server (all) load/Drive,02:30p,10:30p,0,0,8
+2/15/2025,2100,Kinkele,Kari,Gabbard.LunchBuffet,*Server (All),09:30a,02:30p,0,0,5
+2/15/2025,1014,Kirschner,Steven,Gabbard.LunchBuffet,*Server (All),09:30a,02:30p,0,0,5
+2/15/2025,2165,McGraw,Lisa,Gomez.PSOHD,*Bartender/Server,01:00p,06:00p,0,0,5
+2/15/2025,1062,McKenzie,Jacob,Sparks.PSOHD Dinner,*Chef,04:00p,09:15p,0,0,5.25
+2/15/2025,1138,McKenzie,Jasmin,Sparks.PSOHD Dinner,*KA,04:00p,09:15p,0,0,5.25
+2/15/2025,1039,Mitchell,Martin,Gabbard.LunchBuffet,*Server (All),09:30a,02:30p,0,0,5
+2/15/2025,1028,Reis,Jess,Gomez.PSOHD,*Chef Server (Load/Drive),11:30a,06:30p,0,0,7
+2/15/2025,1108,Williams,Antonio,Sparks.PSOHD Dinner,*Server (All),12:00a,12:00a,0,0,0
+2/15/2025,1210,Zins,Matt,Gomez.PSOHD,*Server (All),01:00p,06:30p,0,0,5.5
+2/17/2025,1023,Cole,Lacy,Production Assistant,commissary production and/or delivery,10:18a,04:42p,0,0,6.4
+2/18/2025,1063,Barton,Marlee,Production Assistant,commissary production and/or delivery,06:30a,01:58p,0,0,7.47
+2/18/2025,1023,Cole,Lacy,Production Assistant,commissary production and/or delivery,10:05a,05:08p,0,0,7.05
+2/18/2025,1028,Reis,Jess,production meetin,commissary production and/or delivery,09:22a,12:00p,0,0,2.63
+2/19/2025,1063,Barton,Marlee,Production Assistant,commissary production and/or delivery,06:30a,01:30p,0,0,7
+2/19/2025,1023,Cole,Lacy,Production Assistant,commissary production and/or delivery,06:33a,01:30p,0,0,6.95
+2/19/2025,1019,Genetti,Greg,Tasting +Lunch.VivaBella,Tasting Chef,11:30a,02:30p,0,0,3
+2/19/2025,1028,Reis,Jess,Tasting +Lunch.VivaBella,Tasting Server,11:00a,03:00p,0,0,4
+2/20/2025,1063,Barton,Marlee,Production Assistant,commissary production and/or delivery,09:01a,03:01p,0,0,6
+2/20/2025,1023,Cole,Lacy,Wine and Weddings,*Bartender/Server,02:30p,08:05p,0,0,5.58
+2/20/2025,1019,Genetti,Greg,Wine and Weddings,*Chef,02:00p,07:00p,0,0,5
+2/20/2025,2100,Kinkele,Kari,Wine and Weddings,*Server (All),02:40p,04:30p,0,0,1.83
+2/20/2025,2165,McGraw,Lisa,Wine and Weddings,*Server (All),02:30p,08:30p,0,0,6
+2/20/2025,1062,McKenzie,Jacob,Wine and Weddings,*KA,02:00p,07:30p,0,0,5.5
+2/20/2025,1138,McKenzie,Jasmin,Wine and Weddings,*KA,02:00p,07:30p,0,0,5.5
+2/20/2025,,Peters,Jeremy,Wine and Weddings,*KA,02:00p,07:30p,0,0,5.5
+2/20/2025,1028,Reis,Jess,Wine and Weddings,*Captain,01:52p,08:00p,0,0,6.13
+2/20/2025,1006,Storm,Jamie,Wine and Weddings,Chef/Server,02:00p,08:00p,0,0,6
+2/20/2025,1007,Teal,Brad,Wine and Weddings,*Bartender/Server,02:30p,08:00p,0,0,5.5
+2/20/2025,1210,Zins,Matt,Wine and Weddings,*Server (All),02:50p,08:05p,0,0,5.25
+2/21/2025,1023,Cole,Lacy,Production Assistant,commissary production and/or delivery,06:20a,02:27p,0,0,8.12
+2/21/2025,1030,Diebold,Jon,Tap.Ball,*Chef,05:00p,11:00p,0,0,6
+2/21/2025,1019,Genetti,Greg,TASTING Noon & 230 arrival @11,*Chef,01:30p,04:30p,0,0,3
+2/21/2025,1062,McKenzie,Jacob,TASTING Noon & 230 arrival @11,Tasting Chef,11:00a,01:00p,0,0,2
+2/21/2025,,Peters,Jeremy,TASTING Noon & 230 arrival @11,Tasting Chef,11:00a,01:00p,0,0,2
+2/21/2025,1028,Reis,Jess,TASTING Noon & 230 arrival @11,Tasting Server,10:50a,04:30p,0,0,5.67
+2/21/2025,1007,Teal,Brad,Tap.Ball,*Chef Server (Load/Drive),03:21p,11:30p,0,0,8.15
+2/21/2025,1064,Whalen,Jeremy,Production Assistant,commissary production and/or delivery,10:04a,02:47p,0,0,4.72
+2/24/2025,1023,Cole,Lacy,Production Assistant,commissary production and/or delivery,10:15a,05:08p,0,0,6.88
+2/25/2025,1028,Reis,Jess,production meetin,commissary production and/or delivery,12:00a,12:00a,0,0,0
+2/26/2025,1063,Barton,Marlee,Production Assistant,commissary production and/or delivery,10:01a,05:00p,0,0,6.98
+2/26/2025,1023,Cole,Lacy,Production Assistant,commissary production and/or delivery,10:07a,05:09p,0,0,7.03
+2/26/2025,1019,Genetti,Greg,Tasting.TAP.Spruance Rigg,Tasting Chef,10:30a,03:00p,0,0,4.5
+2/26/2025,,Peters,Jeremy,Tasting.TAP.Spruance Rigg,Tasting Chef,10:30a,03:00p,0,0,4.5
+2/26/2025,1007,Teal,Brad,Tasting.TAP.Spruance Rigg,*Server (All),11:00a,03:00p,0,0,4
+2/27/2025,1063,Barton,Marlee,Production Assistant,commissary production and/or delivery,10:02a,03:31p,0,0,5.48
+2/27/2025,1023,Cole,Lacy,Production Assistant,commissary production and/or delivery,10:07a,03:44p,0,0,5.62
+2/27/2025,1019,Genetti,Greg,Tastings 1130 & 230 Arrival at 10:30,Tasting Chef,11:30a,02:30p,0,0,3
+2/27/2025,1028,Reis,Jess,Tastings 1130 & 230 Arrival at 10:30,Tasting Server,10:26a,03:35p,0,0,5.15
+2/28/2025,1023,Cole,Lacy,Cincinnati Shakespeare.Ryan.SOHD,*Chef Server (Load/Drive),02:30p,09:00p,0,0,6.5
+2/28/2025,,Downton,Pamela,Dinsmore Mann SOHD,*Server (All),04:30p,09:30p,0,0,5
+2/28/2025,1019,Genetti,Greg,TASTING.Huttenbauer.Reed Vajen.Seated Dinner.TBD*** ppl,Tasting Chef,01:30p,04:30p,0,0,3
+2/28/2025,1236,Hensley,Diana,Dinsmore Mann SOHD,*Server (All),04:30p,09:30p,0,0,5
+2/28/2025,1062,McKenzie,Jacob,Tasting.Allon-Barsanti.seated dinner.tasting,Tasting Chef,01:30p,03:30p,0,0,2
+2/28/2025,1058,Read,Brennan,TASTING.TCCCT.Crone Byron.Seated Dinner,Tasting Chef,11:00a,01:30p,0,0,2.5
+2/28/2025,1028,Reis,Jess,Tasting.Allon-Barsanti.seated dinner.tasting,Tasting Server,01:17p,05:30p,0,0,4.22
+2/28/2025,1374,Robbins JTC,#NAME?,Cincinnati Shakespeare.Ryan.SOHD,*Server (All),04:00p,09:00p,0,0,5
+2/28/2025,1237,Stickrod,#NAME?,Cincinnati Shakespeare.Ryan.SOHD,*Server (All),04:00p,09:00p,0,0,5
+2/28/2025,1006,Storm,Jamie,TASTING.TCCCT.Crone Byron.Seated Dinner,Tasting Server,11:00a,01:30p,0,0,2.5
+2/28/2025,1006,Storm,Jamie,TASTING.Huttenbauer.Reed Vajen.Seated Dinner.TBD*** ppl,Tasting Server,01:30p,05:00p,0,0,3.5
+2/28/2025,1007,Teal,Brad,Cincinnati Shakespeare.Ryan.SOHD,*Server (All),04:00p,09:00p,0,0,5
+2/28/2025,1210,Zins,Matt,Dinsmore Mann SOHD,*Chef Server (Load/Drive),03:00p,10:30p,0,0,7.5
+3/1/2025,,Briones JTC,Tabitha,TCCCT.Lanzillotta Eck.Seated DInner,*Server (All),03:00p,12:00a,0,0,9
+3/1/2025,,Briones JTC,Yasmin,TCCCT.Lanzillotta Eck.Seated DInner,*Server (All),03:00p,12:00a,0,0,9
+3/1/2025,2164,Cheney,Alexandria,TCCCT.Lanzillotta Eck.Seated DInner,*Server (All),03:00p,12:00a,0,0,9
+3/1/2025,1023,Cole,Lacy,CCD.PAFF.STATIONS,*server (all) load/Drive,01:30p,12:00a,0,0,10.5
+3/1/2025,1082,Collins,Jennifer,CCD.PAFF.STATIONS,*KA,03:00p,10:00p,0,0,7
+3/1/2025,1100,Dewald,Samantha,CCD.PAFF.STATIONS,*Server (All),05:00p,11:15p,0,0,6.25
+3/1/2025,,Downton,Pamela,TCCCT.Lanzillotta Eck.Seated DInner,*Server (All),03:00p,12:00a,0,0,9
+3/1/2025,1239,Duerk JTC,Susan,TCCCT.Lanzillotta Eck.Seated DInner,*Bartender/Server,03:00p,12:00a,0,0,9
+3/1/2025,1015,Dyas,Krissy,CCD.PAFF.STATIONS,*Captain,03:00p,12:00a,0,0,9
+3/1/2025,1242,Estvanko JTC,Amber,CCD.PAFF.STATIONS,*Server (All),05:00p,11:30p,0,0,6.5
+3/1/2025,1116,Flores,Astrid,Sullivan.PSOHD,*Server (All),04:00p,10:00p,0,0,6
+3/1/2025,2161,Gaines,Winston,CCD.PAFF.STATIONS,*Server (All),03:00p,11:15p,0,0,8.25
+3/1/2025,1019,Genetti,Greg,TCCCT.Lanzillotta Eck.Seated DInner,*Chef,03:00p,09:00p,0,0,6
+3/1/2025,2139,Godar,Christine,CCD.PAFF.STATIONS,*Server (All),03:30p,11:30p,0,0,8
+3/1/2025,1152,Goodpaster,Chris,Sullivan.PSOHD,*server (all) load/Drive,02:30p,10:30p,0,0,8
+3/1/2025,2155,Hagen JTC,Nicholas,CCD.PAFF.STATIONS,*Server (All),03:00p,10:30p,0,0,7.5
+3/1/2025,1315,Harding JTC,Thomas,CCD.PAFF.STATIONS,*Server (All),04:33p,10:33p,0,0,6
+3/1/2025,1236,Hensley,Diana,TCCCT.Lanzillotta Eck.Seated DInner,*Bartender/Server,03:00p,12:00a,0,0,9
+3/1/2025,,Humphrey,Pamela,TCCCT.Lanzillotta Eck.Seated DInner,*Server (All),03:00p,12:00a,0,0,9
+3/1/2025,1004,Jacobs,Brittani,Sullivan.PSOHD,*Server (All),04:00p,10:00p,0,0,6
+3/1/2025,2103,Jones,Tkyah,Sullivan.PSOHD,*Server (All),04:00p,10:00p,0,0,6
+3/1/2025,1206,Jones,Tre' Von,TCCCT.Lanzillotta Eck.Seated DInner,*KA,03:00p,09:00p,0,0,6
+3/1/2025,1035,Kaufman,Seth,CCD.PAFF.STATIONS,*Server (All),03:15p,11:30p,0,0,8.25
+3/1/2025,1005,Kettman,Christi,CCD.PAFF.STATIONS,*Captain,03:00p,12:00a,0,0,9
+3/1/2025,1243,Killion JTC,Nicole,CCD.PAFF.STATIONS,*Server (All),05:00p,11:30p,0,0,6.5
+3/1/2025,2100,Kinkele,Kari,TCCCT.Lanzillotta Eck.Seated DInner,*Server (All),03:00p,12:00a,0,0,9
+3/1/2025,1245,Lee,JTC Charles,TCCCT.Lanzillotta Eck.Seated DInner,*Bartender/Server,03:00p,12:00a,0,0,9
+3/1/2025,1055,Martin,Sam,CCD.PAFF.STATIONS,*Chef,03:00p,07:30p,0,0,4.5
+3/1/2025,1062,McKenzie,Jacob,Sullivan.PSOHD,*Chef,04:00p,08:45p,0,0,4.75
+3/1/2025,1138,McKenzie,Jasmin,Sullivan.PSOHD,*KA,04:00p,08:45p,0,0,4.75
+3/1/2025,1039,Mitchell,Martin,CCD.PAFF.STATIONS,*Server (All),05:00p,11:30p,0,0,6.5
+3/1/2025,1252,Perdomo JTC,Monica,CCD.PAFF.STATIONS,*Server (All),05:00p,11:30p,0,0,6.5
+3/1/2025,,Peters,Jeremy,CCD.PAFF.STATIONS,*KA,03:00p,10:00p,0,0,7
+3/1/2025,1226,Przekop,Nathan,CCD.PAFF.STATIONS,*KA,03:00p,10:00p,0,0,7
+3/1/2025,2111,Ramirez,Gilberto,Sullivan.PSOHD,*Server (All),04:00p,10:30p,0,0,6.5
+3/1/2025,1058,Read,Brennan,CCD.PAFF.STATIONS,*KA,03:00p,10:00p,0,0,7
+3/1/2025,1028,Reis,Jess,Sullivan.PSOHD,*Captain,04:00p,10:00p,0,0,6
+3/1/2025,1374,Robbins JTC,#NAME?,TCCCT.Lanzillotta Eck.Seated DInner,*Server (All),03:30p,12:00a,0,0,8.5
+3/1/2025,,Roberts,Steven,CCD.PAFF.STATIONS,*KA,03:00p,10:00p,0,0,7
+3/1/2025,1080,Schaffer,Marissa,CCD.PAFF.STATIONS,*Server (All),05:15p,11:30p,0,0,6.25
+3/1/2025,1091,Smith,Zathian,CCD.PAFF.STATIONS,*KA,03:00p,10:00p,0,0,7
+3/1/2025,2136,Soria,Iliana,TCCCT.Lanzillotta Eck.Seated DInner,*Server (All),03:00p,12:00a,0,0,9
+3/1/2025,1237,Stickrod,#NAME?,TCCCT.Lanzillotta Eck.Seated DInner,*Captain,03:00p,12:00a,0,0,9
+3/1/2025,1006,Storm,Jamie,TCCCT.Lanzillotta Eck.Seated DInner,*server (all) load/Drive,01:30p,12:00a,0,0,10.5
+3/1/2025,1007,Teal,Brad,TCCCT.Lanzillotta Eck.Seated DInner,*Server (All),03:00p,12:00a,0,0,9
+3/1/2025,1060,Valio,Fabricio,CCD.PAFF.STATIONS,*Server (All),03:00p,10:30p,0,0,7.5
+3/1/2025,1143,Walker,Wendell,TCCCT.Lanzillotta Eck.Seated DInner,*server (all) load/Drive,01:30p,12:00a,0,0,10.5
+3/1/2025,1022,Williams,Scott,TCCCT.Lanzillotta Eck.Seated DInner,*KA,03:00p,09:30p,0,0,6.5
+3/1/2025,1210,Zins,Matt,CCD.PAFF.STATIONS,*server (all) load/Drive,11:30p,11:30p,0,0,24
+3/3/2025,1063,Barton,Marlee,Cincinnati Ballet.Seated Dinner,Bartender - Load & Drive,02:15p,09:45p,0,0,7.5
+3/3/2025,1211,Bloomer,Sara,Playhouse PSOHD,*Server (All),03:00p,08:00p,0,0,5
+3/3/2025,1023,Cole,Lacy,Production Assistant,commissary production and/or delivery,10:26a,05:30p,0,0,7.07
+3/3/2025,1030,Diebold,Jon,Cincinnati Ballet.Seated Dinner,*Chef,03:45p,09:30p,0,0,5.75
+3/3/2025,1041,Field,Stephanie,Cincinnati Ballet.Seated Dinner,*Server (All),03:45p,09:30p,0,0,5.75
+3/3/2025,2139,Godar,Christine,Playhouse PSOHD,*Server (All),04:30p,08:00p,0,0,3.5
+3/3/2025,1236,Hensley,Diana,Playhouse PSOHD,*Server (All),03:00p,08:00p,0,0,5
+3/3/2025,1243,Killion JTC,Nicole,Playhouse PSOHD,*Server (All),03:00p,08:00p,0,0,5
+3/3/2025,2165,McGraw,Lisa,Cincinnati Ballet.Seated Dinner,*Server (All),03:45p,09:30p,0,0,5.75
+3/3/2025,,Peters,Jeremy,Playhouse PSOHD,*KA,03:00p,07:00p,0,0,4
+3/3/2025,1028,Reis,Jess,PG Breakfast/Lunch,*Captain,06:30a,02:00p,0,0,7.5
+3/3/2025,1006,Storm,Jamie,PG Breakfast/Lunch,*Chef Server (Load/Drive),05:00a,02:50p,0,0,9.83
+3/3/2025,1007,Teal,Brad,Playhouse PSOHD,*Captain,03:00p,08:00p,0,0,5
+3/3/2025,1143,Walker,Wendell,Playhouse PSOHD,*server (all) load/Drive,01:30p,08:00p,0,0,6.5
+3/3/2025,1022,Williams,Scott,Playhouse PSOHD,*Chef,03:00p,07:00p,0,0,4
+3/3/2025,1210,Zins,Matt,Cincinnati Ballet.Seated Dinner,*Captain,03:30p,09:30p,0,0,6
+3/4/2025,1063,Barton,Marlee,TAP.Evanta.Ebie.Seated Dinner,*Chef Server (Load/Drive),01:00p,08:00p,0,0,7
+3/4/2025,1082,Collins,Jennifer,TAP.Evanta.Ebie.Seated Dinner,*KA,02:30p,08:00p,0,0,5.5
+3/4/2025,1030,Diebold,Jon,TAP.Evanta.Ebie.Seated Dinner,*Chef,02:30p,08:00p,0,0,5.5
+3/4/2025,1243,Killion JTC,Nicole,5/3 Hagerty SOHD,*Bartender/Server,03:00p,08:00p,0,0,5
+3/4/2025,1028,Reis,Jess,production meetin,commissary production and/or delivery,09:31a,02:17p,0,0,4.77
+3/4/2025,1006,Storm,Jamie,PG Breakfast/Lunch,*Chef Server (Load/Drive),05:00a,03:00p,0,0,10
+3/4/2025,1007,Teal,Brad,5/3 Hagerty SOHD,*Chef Server (Load/Drive),01:30p,08:00p,0,0,6.5
+3/4/2025,1210,Zins,Matt,PG Breakfast/Lunch,*Captain,06:30a,02:00p,0,0,7.5
+3/5/2025,1063,Barton,Marlee,Production Assistant,commissary production and/or delivery,06:45a,01:00p,0,0,6.25
+3/5/2025,1023,Cole,Lacy,UC.Tepe.Buffet Dinner,*Bartender/Server,02:30p,08:25p,0,0,5.92
+3/5/2025,1019,Genetti,Greg,two tastings CSO + bauer,Tasting Chef,11:00a,03:00p,0,0,4
+3/5/2025,2165,McGraw,Lisa,UC.Tepe.Buffet Dinner,*Server (All),02:30p,07:45p,0,0,5.25
+3/5/2025,1028,Reis,Jess,two tastings CSO + bauer,Tasting Server,11:00a,04:00p,0,0,5
+3/5/2025,1006,Storm,Jamie,UC.Tepe.Buffet Dinner,*Chef Server (Load/Drive),01:00p,08:25p,0,0,7.42
+3/6/2025,1063,Barton,Marlee,Production Assistant,commissary production and/or delivery,10:02a,03:38p,0,0,5.6
+3/6/2025,1023,Cole,Lacy,Production Assistant,commissary production and/or delivery,10:30a,11:00a,0,0,0.5
+3/6/2025,1023,Cole,Lacy,TASTINGS.Zebrowski & Cohen.seated dinner,Tasting Server,10:30a,05:45p,0,0,7.25
+3/6/2025,1030,Diebold,Jon,MeetNKY.Seated Dinner,*Chef,05:00p,10:00p,0,0,5
+3/6/2025,1019,Genetti,Greg,TASTINGS.Zebrowski & Cohen.seated dinner,Tasting Chef,11:00a,04:00p,0,0,5
+3/6/2025,1044,Norris,Melissa,MeetNKY.Seated Dinner,*server (all) load/Drive,03:30p,10:30p,0,0,7
+3/6/2025,1028,Reis,Jess,MeetNKY.Seated Dinner,*Captain,05:00p,10:00p,0,0,5
+3/7/2025,1145,Allen,William,Make-a-Wish Seated,*Server (All),02:30p,10:15p,0,0,7.75
+3/7/2025,,Briones JTC,Tabitha,Make-a-Wish Seated,*Server (All),02:30p,10:15p,0,0,7.75
+3/7/2025,,Briones JTC,Yasmin,Make-a-Wish Seated,*Server (All),02:30p,10:15p,0,0,7.75
+3/7/2025,2164,Cheney,Alexandria,Make-a-Wish Seated,*Server (All),04:00p,10:15p,0,0,6.25
+3/7/2025,1023,Cole,Lacy,Make-a-Wish Seated,*server (all) load/Drive,01:00p,11:00p,0,0,10
+3/7/2025,1082,Collins,Jennifer,Make-a-Wish Seated,*KA,02:30p,09:00p,0,0,6.5
+3/7/2025,1100,Dewald,Samantha,Make-a-Wish Seated,*Server (All),02:30p,10:15p,0,0,7.75
+3/7/2025,,Downton,Pamela,Make-a-Wish Seated,*Server (All),02:30p,10:15p,0,0,7.75
+3/7/2025,1239,Duerk JTC,Susan,Make-a-Wish Seated,*Server (All),02:30p,10:15p,0,0,7.75
+3/7/2025,2161,Gaines,Winston,Make-a-Wish Seated,*Server (All),02:30p,10:15p,0,0,7.75
+3/7/2025,1019,Genetti,Greg,TASTING.Favorito-James.stations dinner.,Tasting Chef,11:00a,01:00p,0,0,2
+3/7/2025,1019,Genetti,Greg,O'tool Tasting,Tasting Chef,01:00p,03:00p,0,0,2
+3/7/2025,2139,Godar,Christine,Make-a-Wish Seated,*Server (All),04:30p,10:15p,0,0,5.75
+3/7/2025,1152,Goodpaster,Chris,Make-a-Wish Seated,*server (all) load/Drive,01:00p,11:00p,0,0,10
+3/7/2025,2042,Harris JTC,Wayne,Make-a-Wish Seated,*Server (All),02:30p,10:15p,0,0,7.75
+3/7/2025,1275,Haubner,Isaac,CIWF Setup,*Server (All),12:00p,04:30p,0,0,4.5
+3/7/2025,1236,Hensley,Diana,Make-a-Wish Seated,*Server (All),02:30p,10:15p,0,0,7.75
+3/7/2025,,Humphrey,Pamela,Make-a-Wish Seated,*Server (All),02:30p,10:15p,0,0,7.75
+3/7/2025,2103,Jones,Tkyah,Make-a-Wish Seated,*Server (All),02:30p,10:15p,0,0,7.75
+3/7/2025,1206,Jones,Tre' Von,Make-a-Wish Seated,*KA,02:30p,09:00p,0,0,6.5
+3/7/2025,2131,Jones,Tylee,Make-a-Wish Seated,*Server (All),02:30p,10:15p,0,0,7.75
+3/7/2025,1154,Kaczmarek,Benjamin,Make-a-Wish Seated,*Server (All),01:30p,11:00p,0,0,9.5
+3/7/2025,,Keefe,Kathryn,Make-a-Wish Seated,*Server (All),02:30p,10:15p,0,0,7.75
+3/7/2025,2100,Kinkele,Kari,Make-a-Wish Seated,*Server (All),03:45p,10:15p,0,0,6.5
+3/7/2025,2152,Kruthaupt,Stephanie,Make-a-Wish Seated,*Server (All),02:30p,10:16p,0,0,7.77
+3/7/2025,,Kulikowski JTC,#NAME?,Make-a-Wish Seated,*Server (All),02:30p,10:15p,0,0,7.75
+3/7/2025,1245,Lee,JTC Charles,Make-a-Wish Seated,*Server (All),02:30p,10:15p,0,0,7.75
+3/7/2025,2137,Littelmann,Tracy,Make-a-Wish Seated,*Server (All),02:30p,10:15p,0,0,7.75
+3/7/2025,,Lynch JTC,Jennifer,Make-a-Wish Seated,*Server (All),05:30p,10:15p,0,0,4.75
+3/7/2025,1055,Martin,Sam,Make-a-Wish Seated,*Chef,02:30p,09:00p,0,0,6.5
+3/7/2025,2165,McGraw,Lisa,Make-a-Wish Seated,*Server (All),02:30p,11:00p,0,0,8.5
+3/7/2025,1039,Mitchell,Martin,Make-a-Wish Seated,*Server (All),02:34p,10:16p,0,0,7.7
+3/7/2025,1044,Norris,Melissa,Make-a-Wish Seated,*Server (All),04:30p,09:45p,0,0,5.25
+3/7/2025,1057,Pabst,Aimee,Production Assistant,commissary production and/or delivery,09:25a,02:24p,0,0,4.98
+3/7/2025,1252,Perdomo JTC,Monica,CIWF Setup,*Server (All),12:00p,04:30p,0,0,4.5
+3/7/2025,1252,Perdomo JTC,Monica,Make-a-Wish Seated,*Server (All),06:30p,10:15p,0,0,3.75
+3/7/2025,,Peters,Jeremy,Make-a-Wish Seated,*KA,02:30p,09:00p,0,0,6.5
+3/7/2025,1328,Phillips JTC,Ginger,Make-a-Wish Seated,*Server (All),02:30p,09:30p,0,0,7
+3/7/2025,1231,Pickett,Kulaya,Make-a-Wish Seated,*Server (All),04:30p,10:15p,0,0,5.75
+3/7/2025,2111,Ramirez,Gilberto,Make-a-Wish Seated,*Server (All),02:30p,10:15p,0,0,7.75
+3/7/2025,1058,Read,Brennan,Make-a-Wish Seated,*Chef,02:30p,09:00p,0,0,6.5
+3/7/2025,1028,Reis,Jess,Make-a-Wish Seated,*Captain,02:00p,10:30p,0,0,8.5
+3/7/2025,1374,Robbins JTC,#NAME?,Make-a-Wish Seated,*Server (All),02:30p,10:15p,0,0,7.75
+3/7/2025,1037,Shewmaker,Sydney,Make-a-Wish Seated,*Server (All),02:30p,11:00p,0,0,8.5
+3/7/2025,1091,Smith,Zathian,Make-a-Wish Seated,*KA,02:30p,09:00p,0,0,6.5
+3/7/2025,2136,Soria,Iliana,Make-a-Wish Seated,*Server (All),02:30p,10:15p,0,0,7.75
+3/7/2025,1237,Stickrod,#NAME?,Make-a-Wish Seated,*Captain,02:30p,10:30p,0,0,8
+3/7/2025,1006,Storm,Jamie,CIWF Setup,Captain-Load/Drive,11:00a,05:00p,0,0,6
+3/7/2025,1007,Teal,Brad,TASTING.Favorito-James.stations dinner.,Tasting Server,11:00a,01:45p,0,0,2.75
+3/7/2025,1007,Teal,Brad,O'tool Tasting,Tasting Server,01:45p,05:00p,0,0,3.25
+3/7/2025,1007,Teal,Brad,Make-a-Wish Seated,*Server (All),05:30p,10:15p,0,0,4.75
+3/7/2025,1064,Whalen,Jeremy,CIWF Setup,*Server (All),12:00p,04:30p,0,0,4.5
+3/7/2025,1022,Williams,Scott,Make-a-Wish Seated,*KA,02:30p,09:00p,0,0,6.5
+3/7/2025,1210,Zins,Matt,Make-a-Wish Seated,*Server (All),02:30p,08:30p,0,0,6
+3/8/2025,1145,Allen,William,CIWF.Gagnon.seated lunch,*Server (All),07:30a,06:15p,0,0,10.75
+3/8/2025,1003,Brindley,Scott,CIWF.Gagnon.seated lunch,*Captain,07:30a,07:00p,0,0,11.5
+3/8/2025,1023,Cole,Lacy,Jarrell Hasse.Family Style Seated Dinner,*server (all) load/Drive,01:03p,10:00p,0,0,8.95
+3/8/2025,1253,Davidson,Halona,CIWF.Gagnon.seated lunch,*Server (All),07:30a,04:30p,0,0,9
+3/8/2025,1030,Diebold,Jon,Jarrell Hasse.Family Style Seated Dinner,*Chef,02:32p,08:53p,0,0,6.35
+3/8/2025,1239,Duerk JTC,Susan,Jarrell Hasse.Family Style Seated Dinner,*Server (All),02:30p,09:30p,0,0,7
+3/8/2025,2161,Gaines,Winston,CIWF.Gagnon.seated lunch,*Server (All),07:30a,07:00p,0,0,11.5
+3/8/2025,1019,Genetti,Greg,CIWF.Gagnon.seated lunch,*Chef,07:30a,04:00p,0,0,8.5
+3/8/2025,1152,Goodpaster,Chris,Shaftel.Bar Mitzvah Stations,*Server (All),03:30p,09:30p,0,0,6
+3/8/2025,2155,Hagen JTC,Nicholas,CIWF.Gagnon.seated lunch,*Server (All),07:30a,06:15p,0,0,10.75
+3/8/2025,1315,Harding JTC,Thomas,CIWF.Gagnon.seated lunch,*Server (All),07:30a,10:30a,0,0,3
+3/8/2025,1236,Hensley,Diana,Jarrell Hasse.Family Style Seated Dinner,*Bartender/Server,02:30p,09:30p,0,0,7
+3/8/2025,1352,Henson,Denise,CIWF.Gagnon.seated lunch,*Server (All),07:30a,06:00p,0,0,10.5
+3/8/2025,,Humphrey,Pamela,Shaftel.Bar Mitzvah Stations,*Server (All),03:15p,10:30p,0,0,7.25
+3/8/2025,1279,Hyland JTC,Jill,CIWF.Gagnon.seated lunch,*Server (All),07:30a,06:15p,0,0,10.75
+3/8/2025,2103,Jones,Tkyah,CIWF.Gagnon.seated lunch,*Server (All),07:30a,06:15p,0,0,10.75
+3/8/2025,1206,Jones,Tre' Von,Jarrell Hasse.Family Style Seated Dinner,*KA,02:30p,09:30p,0,0,7
+3/8/2025,1035,Kaufman,Seth,CIWF.Gagnon.seated lunch,*Server (All),07:30a,06:00p,0,0,10.5
+3/8/2025,1005,Kettman,Christi,Shaftel.Bar Mitzvah Stations,*Captain,03:00p,10:30p,0,0,7.5
+3/8/2025,2100,Kinkele,Kari,Shaftel.Bar Mitzvah Stations,*Server (All),03:30p,10:30p,0,0,7
+3/8/2025,2152,Kruthaupt,Stephanie,CIWF.Gagnon.seated lunch,*Server (All),07:30a,06:15p,0,0,10.75
+3/8/2025,1055,Martin,Sam,station set,*Chef,12:00p,02:00p,0,0,2
+3/8/2025,2127,Mayer JTC,David,CIWF.Gagnon.seated lunch,*Server (All),08:30a,06:15p,0,0,9.75
+3/8/2025,2165,McGraw,Lisa,CIWF.Gagnon.seated lunch,*Server (All),07:30a,06:15p,0,0,10.75
+3/8/2025,1062,McKenzie,Jacob,Shaftel.Bar Mitzvah Stations,*Chef,03:30p,09:30p,0,0,6
+3/8/2025,1138,McKenzie,Jasmin,Shaftel.Bar Mitzvah Stations,*KA,03:30p,10:30p,0,0,7
+3/8/2025,1044,Norris,Melissa,CIWF.Gagnon.seated lunch,*server (all) load/Drive,06:00a,07:00p,0,0,13
+3/8/2025,1163,Perez,Marysabel,CIWF.Gagnon.seated lunch,*Server (All),07:30a,06:15p,0,0,10.75
+3/8/2025,1231,Pickett,Kulaya,CIWF.Gagnon.seated lunch,*Bartender/Server,07:30a,06:15p,0,0,10.75
+3/8/2025,1231,Pickett,Kulaya,CIWF.Gagnon.seated lunch,*Server (All),07:53a,06:00p,0,0,10.12
+3/8/2025,1226,Przekop,Nathan,CIWF.Gagnon.seated lunch,*KA,07:30a,04:00p,0,0,8.5
+3/8/2025,2111,Ramirez,Gilberto,CIWF.Gagnon.seated lunch,*Server (All),07:30a,06:15p,0,0,10.75
+3/8/2025,1058,Read,Brennan,CIWF.Gagnon.seated lunch,*KA,07:30a,04:00p,0,0,8.5
+3/8/2025,1028,Reis,Jess,Jarrell Hasse.Family Style Seated Dinner,*Captain,02:15p,09:30p,0,0,7.25
+3/8/2025,1374,Robbins JTC,#NAME?,Shaftel.Bar Mitzvah Stations,*Server (All),03:15p,10:30p,0,0,7.25
+3/8/2025,,Roberts,Steven,Shaftel.Bar Mitzvah Stations,*KA,03:30p,09:30p,0,0,6
+3/8/2025,1001,Schuler,Renee,CIWF.Gagnon.seated lunch,*Chef,07:30a,04:00p,0,0,8.5
+3/8/2025,1091,Smith,Zathian,Shaftel.Bar Mitzvah Stations,*KA,03:30p,09:30p,0,0,6
+3/8/2025,1237,Stickrod,#NAME?,Shaftel.Bar Mitzvah Stations,*Server (All),03:30p,10:30p,0,0,7
+3/8/2025,1006,Storm,Jamie,Shaftel.Bar Mitzvah Stations,*server (all) load/Drive,02:00p,10:30p,0,0,8.5
+3/8/2025,1090,Warren,Christopher,CIWF.Gagnon.seated lunch,*Server (All),07:30a,06:15p,0,0,10.75
+3/8/2025,,Whittle,Jimina,CIWF.Gagnon.seated lunch,*KA,07:30a,04:00p,0,0,8.5
+3/8/2025,1022,Williams,Scott,CIWF.Gagnon.seated lunch,*KA,07:30a,04:00p,0,0,8.5
+3/8/2025,1210,Zins,Matt,CIWF.Gagnon.seated lunch,*server (all) load/Drive,06:00a,07:00p,0,0,13
+3/9/2025,1030,Diebold,Jon,Weinkoop.dinnerbuffet,*Chef,03:30p,08:30p,0,0,5
+3/9/2025,1279,Hyland JTC,Jill,Weinkoop.dinnerbuffet,*Server (All),04:00p,09:00p,0,0,5
+3/9/2025,1004,Jacobs,Brittani,Weinkoop.dinnerbuffet,*Bartender/Server,04:00p,09:00p,0,0,5
+3/9/2025,1044,Norris,Melissa,Weinkoop.dinnerbuffet,*server (all) load/Drive,02:30p,08:30p,0,0,6
+3/9/2025,1028,Reis,Jess,Weinkoop.dinnerbuffet,*Captain,04:00p,09:00p,0,0,5
+3/10/2025,1063,Barton,Marlee,Production Assistant,commissary production and/or delivery,10:02a,04:55p,0,0,6.88
+3/10/2025,1023,Cole,Lacy,Production Assistant,commissary production and/or delivery,09:56a,05:02p,0,0,7.1
+3/11/2025,1063,Barton,Marlee,AO.Wilson.PSOHD,*Bartender/Server,02:00p,08:45p,0,0,6.75
+3/11/2025,1023,Cole,Lacy,AO.Wilson.PSOHD,Bartender - Load & Drive,12:00p,09:45p,0,0,9.75
+3/11/2025,1082,Collins,Jennifer,AO.Wilson.PSOHD,*KA,02:00p,08:00p,0,0,6
+3/11/2025,1239,Duerk,Susan,AO.Wilson.PSOHD,*Bartender/Server,02:00p,08:45p,0,0,6.75
+3/11/2025,1236,Hensley,Diana,AO.Wilson.PSOHD,*Bartender/Server,02:00p,08:45p,0,0,6.75
+3/11/2025,1243,Killion,Nicole,AO.Wilson.PSOHD,*Server (All),02:30p,09:15p,0,0,6.75
+3/11/2025,2100,Kinkele,Kari,AO.Wilson.PSOHD,*Server (All),03:30p,08:45p,0,0,5.25
+3/11/2025,2152,Kruthaupt,Stephanie,AO.Wilson.PSOHD,*Server (All),02:00p,08:45p,0,0,6.75
+3/11/2025,1039,Mitchell,Martin,AO.Wilson.PSOHD,*Server (All),02:00p,08:45p,0,0,6.75
+3/11/2025,,Peters,Jeremy,AO.Wilson.PSOHD,*KA,02:00p,08:00p,0,0,6
+3/11/2025,1328,Phillips,Ginger,AO.Wilson.PSOHD,*Server (All),02:00p,08:45p,0,0,6.75
+3/11/2025,1058,Read,Brennan,AO.Wilson.PSOHD,*Chef,02:00p,08:00p,0,0,6
+3/11/2025,1028,Reis,Jess,production meetin,commissary production and/or delivery,09:20a,01:00p,0,0,3.67
+3/11/2025,1028,Reis,Jess,AO.Wilson.PSOHD,*Captain,01:30p,08:45p,0,0,7.25
+3/11/2025,1006,Storm,Jamie,AO.Wilson.PSOHD,*Bartender/Server,01:00p,09:45p,0,0,8.75
+3/11/2025,1007,Teal,Brad,AO.Wilson.PSOHD,*Bartender/Server,02:00p,09:45p,0,0,7.75
+3/11/2025,1210,Zins,Matt,AO.Wilson.PSOHD,*Server (All),02:00p,08:45p,0,0,6.75
+3/12/2025,1063,Barton,Marlee,Production Assistant,commissary production and/or delivery,07:30a,02:15p,0,0,6.75
+3/12/2025,1023,Cole,Lacy,Production Assistant,commissary production and/or delivery,09:04a,04:10p,0,0,7.1
+3/12/2025,1019,Genetti,Greg,TASTINGS.Taft&Sanders,*Chef,11:00a,01:00p,0,0,2
+3/12/2025,1062,McKenzie,Jacob,TASTINGS.Taft&Sanders,Tasting Chef,01:00p,04:30p,0,0,3.5
+3/12/2025,1028,Reis,Jess,TASTINGS.Taft&Sanders,Tasting Server,11:00a,05:30p,0,0,6.5
+3/12/2025,1006,Storm,Jamie,Production Assistant,commissary production and/or delivery,09:07a,04:20p,0,0,7.22
+3/13/2025,1145,Allen,William,CCM.Blommer.,*Server (All),04:00p,10:45p,0,0,6.75
+3/13/2025,1063,Barton,Marlee,Production Assistant,commissary production and/or delivery,06:00a,12:14p,0,0,6.23
+3/13/2025,,Downton,Pamela,CCM.Blommer.,*Server (All),04:00p,09:00p,0,0,5
+3/13/2025,1019,Genetti,Greg,TASTING Coons Back,Tasting Chef,01:00p,05:00p,0,0,4
+3/13/2025,2100,Kinkele,Kari,CCM.Blommer.,*Server (All),04:00p,10:45p,0,0,6.75
+3/13/2025,2165,McGraw,Lisa,CCM.Blommer.,*Server (All),04:00p,10:45p,0,0,6.75
+3/13/2025,1062,McKenzie,Jacob,CCM.Blommer.,*Chef,04:00p,09:30p,0,0,5.5
+3/13/2025,1138,McKenzie,Jasmin,CCM.Blommer.,*KA,04:00p,09:30p,0,0,5.5
+3/13/2025,1044,Norris,Melissa,CCM.Blommer.,*Server (All),04:00p,10:45p,0,0,6.75
+3/13/2025,1057,Pabst,Aimee,Production Assistant,commissary production and/or delivery,09:08a,02:16p,0,0,5.13
+3/13/2025,1328,Phillips,Ginger,CCM.Blommer.,*Server (All),04:00p,09:00p,0,0,5
+3/13/2025,1028,Reis,Jess,CCM.Blommer.,*Captain,04:00p,10:45p,0,0,6.75
+3/13/2025,1007,Teal,Brad,TASTING Coons Back,Tasting Server,11:00a,05:00p,0,0,6
+3/13/2025,1210,Zins,Matt,CCM.Blommer.,*server (all) load/Drive,02:30p,09:45p,0,0,7.25
+3/14/2025,1062,McKenzie,Jacob,TASTINGS 12&3:30. Arrival @ 11,Tasting Chef,11:00a,04:00p,0,0,5
+3/14/2025,1028,Reis,Jess,TASTINGS 12&3:30. Arrival @ 11,Tasting Server,11:00a,04:00p,0,0,5
+3/14/2025,1001,Schuler,Renee,CWC Demo,*Chef,09:00a,01:00p,0,0,4
+3/14/2025,1006,Storm,Jamie,CWC Demo,*Chef Server (Load/Drive),07:30a,02:30p,0,0,7
+3/15/2025,1145,Allen,William,SCD.Vollmer.Stations,*Server (All),04:00p,01:00a,0,0,9
+3/15/2025,1075,Armbruster,Ami,SCD.Vollmer.Stations,*Server (All),04:15p,01:00a,0,0,8.75
+3/15/2025,3234,Battle,Kenneth,SCD.Vollmer.Stations,*KA,04:00p,10:15p,0,0,6.25
+3/15/2025,1003,Brindley,Scott,SCD.Vollmer.Stations,Bar Captain,02:00p,01:00a,0,0,11
+3/15/2025,,Briones,Tabitha,SCD.Vollmer.Stations,*Server (All),03:45p,10:00p,0,0,6.25
+3/15/2025,,Briones,Yasmin,SCD.Vollmer.Stations,*Server (All),03:45p,10:00p,0,0,6.25
+3/15/2025,1082,Collins,Jennifer,SCD.Vollmer.Stations,*KA,03:30p,10:15p,0,0,6.75
+3/15/2025,1253,Davidson,Halona,"LPGA,Brunch Buffet",*Server (All),08:00a,01:00p,0,0,5
+3/15/2025,1030,Diebold,Jon,"LPGA,Brunch Buffet",*Chef,08:00a,01:00p,0,0,5
+3/15/2025,1239,Duerk,Susan,"LPGA,Brunch Buffet",*Server (All),08:00a,01:00p,0,0,5
+3/15/2025,2161,Gaines,Winston,SCD.Vollmer.Stations,*Server (All),03:30p,01:00a,0,0,9.5
+3/15/2025,2155,Hagen JTC,Nicholas,"LPGA,Brunch Buffet",*Server (All),07:00a,01:00p,0,0,6
+3/15/2025,1236,Hensley,Diana,SCD.Vollmer.Stations,*Bartender/Server,03:45p,11:45p,0,0,8
+3/15/2025,1352,Henson,Denise,"LPGA,Brunch Buffet",*Server (All),08:00a,01:00p,0,0,5
+3/15/2025,,Humphrey,Pamela,SCD.Vollmer.Stations,*Server (All),03:30p,11:45p,0,0,8.25
+3/15/2025,1035,Kaufman,Seth,"LPGA,Brunch Buffet",*server (all) load/Drive,06:30a,01:30p,0,0,7
+3/15/2025,1005,Kettman,Christi,SCD.Vollmer.Stations,*Captain,02:00p,01:00a,0,0,11
+3/15/2025,2100,Kinkele,Kari,SCD.Vollmer.Stations,*Server (All),04:00p,12:45a,0,0,8.75
+3/15/2025,1014,Kirschner,Steven,SCD.Vollmer.Stations,*Bartender/Server,04:00p,11:45p,0,0,7.75
+3/15/2025,2152,Kruthaupt,Stephanie,SCD.Vollmer.Stations,*Server (All),04:00p,11:45p,0,0,7.75
+3/15/2025,1062,McKenzie,Jacob,SCD.Vollmer.Stations,*Chef,03:30p,10:15p,0,0,6.75
+3/15/2025,1106,Merchant,Andrew,SCD.Vollmer.Stations,*Server (All),04:00p,11:45p,0,4,7.68
+3/15/2025,1044,Norris,Melissa,SCD.Vollmer.Stations,*server (all) load/Drive,02:00p,01:00a,0,0,11
+3/15/2025,1252,Perdomo JTC,Monica,"LPGA,Brunch Buffet",*Server (All),08:00a,01:00p,0,0,5
+3/15/2025,1328,Phillips,Ginger,"LPGA,Brunch Buffet",*Server (All),08:00a,01:00p,0,0,5
+3/15/2025,1231,Pickett,Kulaya,SCD.Vollmer.Stations,*Bartender/Server,04:00p,11:45p,0,0,7.75
+3/15/2025,2111,Ramirez,Gilberto,"LPGA,Brunch Buffet",*Server (All),08:00a,01:00p,0,0,5
+3/15/2025,1028,Reis,Jess,"LPGA,Brunch Buffet",*Captain,08:00a,01:00p,0,0,5
+3/15/2025,1374,Robbins,Lisa,SCD.Vollmer.Stations,*Bartender/Server,03:30p,11:45p,0,0,8.25
+3/15/2025,,Roberts,Steven,SCD.Vollmer.Stations,*KA,03:30p,10:15p,0,0,6.75
+3/15/2025,2107,Stutler,Donovan,"LPGA,Brunch Buffet",*Server (All),08:00a,01:00p,0,0,5
+3/15/2025,1007,Teal,Brad,SCD.Vollmer.Stations,Bartender - Load & Drive,02:30p,01:00a,0,0,10.5
+3/15/2025,1210,Zins,Matt,"LPGA,Brunch Buffet",*Server (All),08:00a,01:00p,0,0,5
+3/17/2025,1063,Barton,Marlee,White.LunchBuffet,*server (all) load/Drive,09:00a,03:15p,0,0,6.25
+3/17/2025,1030,Diebold,Jon,White.LunchBuffet,*Chef,10:30a,02:30p,0,0,4
+3/17/2025,1236,Hensley,Diana,White.LunchBuffet,*Server (All),10:30a,02:30p,0,0,4
+3/17/2025,2100,Kinkele,Kari,White.LunchBuffet,*Server (All),10:30a,02:30p,0,0,4
+3/17/2025,2165,McGraw,Lisa,White.LunchBuffet,*Server (All),10:30a,02:30p,0,0,4
+3/17/2025,1328,Phillips,Ginger,White.LunchBuffet,*Server (All),10:30a,02:30p,0,0,4
+3/17/2025,1006,Storm,Jamie,Production Assistant,commissary production and/or delivery,08:00a,12:58p,0,0,4.97
+3/17/2025,1064,Whalen,Jeremy,White.LunchBuffet,*Captain,10:30a,02:30p,0,0,4
+3/18/2025,1028,Reis,Jess,production meetin,commissary production and/or delivery,09:30a,01:30p,0,0,4
+3/18/2025,1028,Reis,Jess,NURFC Showcase,*Chef Server (Load/Drive),01:30p,07:30p,0,0,6
+3/18/2025,1006,Storm,Jamie,Production Assistant,commissary production and/or delivery,08:58a,03:35p,0,0,6.62
+3/18/2025,1007,Teal,Brad,Production Assistant,commissary production and/or delivery,09:01a,04:05p,0,0,7.07
+3/19/2025,3234,Battle,Kenneth,eat well All commissary Meeting!,*KA,01:30p,05:00p,0,0,3.5
+3/19/2025,,Bowman,Blair,eat well All commissary Meeting!,commissary production and/or delivery,01:30p,05:00p,0,0,3.5
+3/19/2025,1023,Cole,Lacy,eat well All commissary Meeting!,commissary production and/or delivery,01:30p,05:00p,0,0,3.5
+3/19/2025,1082,Collins,Jennifer,eat well All commissary Meeting!,*KA,01:30p,05:00p,0,0,3.5
+3/19/2025,1201,Colvard,Caleana,eat well All commissary Meeting!,*KA,01:30p,05:00p,0,0,3.5
+3/19/2025,1030,Diebold,Jon,eat well All commissary Meeting!,*KA,01:30p,05:00p,0,0,3.5
+3/19/2025,,Downton,Pamela,eat well All commissary Meeting!,*Server (All),01:30p,05:00p,0,0,3.5
+3/19/2025,1239,Duerk,Susan,eat well All commissary Meeting!,*Server (All),01:30p,05:00p,0,0,3.5
+3/19/2025,2161,Gaines,Winston,eat well All commissary Meeting!,*KA,01:30p,05:00p,0,0,3.5
+3/19/2025,1019,Genetti,Greg,eat well All commissary Meeting!,*Chef,01:30p,05:00p,0,0,3.5
+3/19/2025,1152,Goodpaster,Chris,eat well All commissary Meeting!,commissary production and/or delivery,01:30p,05:00p,0,0,3.5
+3/19/2025,1315,Harding,Thomas,eat well All commissary Meeting!,*Server (All),01:30p,05:00p,0,0,3.5
+3/19/2025,1236,Hensley,Diana,eat well All commissary Meeting!,*Server (All),01:30p,05:00p,0,0,3.5
+3/19/2025,2300,Holbrook,Kristen,eat well All commissary Meeting!,sales,01:30p,05:00p,0,0,3.5
+3/19/2025,1206,Jones,Tre' Von,eat well All commissary Meeting!,*KA,01:30p,05:00p,0,0,3.5
+3/19/2025,2100,Kinkele,Kari,eat well All commissary Meeting!,*Server (All),01:30p,05:00p,0,0,3.5
+3/19/2025,,Kulikowski,Eloise,eat well All commissary Meeting!,*Server (All),01:30p,05:00p,0,0,3.5
+3/19/2025,,Lawson,Scott,eat well All commissary Meeting!,*Server (All),01:30p,05:00p,0,0,3.5
+3/19/2025,1034,Leahy,Andy,eat well All commissary Meeting!,*KA,01:30p,05:00p,0,0,3.5
+3/19/2025,1245,Lee,Charles,eat well All commissary Meeting!,*Server (All),01:30p,05:00p,0,0,3.5
+3/19/2025,1220,lisenbee,anne,eat well All commissary Meeting!,commissary production and/or delivery,01:30p,05:00p,0,0,3.5
+3/19/2025,1055,Martin,Sam,eat well All commissary Meeting!,*Chef,01:30p,05:00p,0,0,3.5
+3/19/2025,1062,McKenzie,Jacob,eat well All commissary Meeting!,*KA,01:30p,05:00p,0,0,3.5
+3/19/2025,1138,McKenzie,Jasmin,eat well All commissary Meeting!,*KA,01:30p,05:00p,0,0,3.5
+3/19/2025,1026,Moore,Mallory,eat well All commissary Meeting!,sales,01:30p,05:00p,0,0,3.5
+3/19/2025,1044,Norris,Melissa,eat well All commissary Meeting!,commissary production and/or delivery,01:30p,05:00p,0,0,3.5
+3/19/2025,1011,Oney,Katie,eat well All commissary Meeting!,sales,01:30p,05:00p,0,0,3.5
+3/19/2025,1107,Payson,Salix,eat well All commissary Meeting!,*KA,01:30p,05:00p,0,0,3.5
+3/19/2025,1045,Perez,Ana,eat well All commissary Meeting!,*Chef,01:30p,05:00p,0,0,3.5
+3/19/2025,,Peters,Jeremy,eat well All commissary Meeting!,*KA,01:30p,05:00p,0,0,3.5
+3/19/2025,1226,Przekop,Nathan,eat well All commissary Meeting!,*KA,01:30p,05:00p,0,0,3.5
+3/19/2025,1058,Read,Brennan,eat well All commissary Meeting!,*KA,01:30p,05:00p,0,0,3.5
+3/19/2025,1028,Reis,Jess,eat well All commissary Meeting!,commissary production and/or delivery,01:30p,05:00p,0,0,3.5
+3/19/2025,,Roberts,Steven,eat well All commissary Meeting!,*KA,01:30p,05:00p,0,0,3.5
+3/19/2025,1040,Schilderink,Katie,eat well All commissary Meeting!,sales,01:30p,05:00p,0,0,3.5
+3/19/2025,1001,Schuler,Renee,eat well All commissary Meeting!,*Chef,01:30p,05:00p,0,0,3.5
+3/19/2025,1091,Smith,Zathian,eat well All commissary Meeting!,*KA,01:30p,05:00p,0,0,3.5
+3/19/2025,1237,Stickrod,Stacie,eat well All commissary Meeting!,commissary production and/or delivery,01:30p,05:00p,0,0,3.5
+3/19/2025,1006,Storm,Jamie,eat well All commissary Meeting!,commissary production and/or delivery,01:30p,05:00p,0,0,3.5
+3/19/2025,1007,Teal,Brad,eat well All commissary Meeting!,commissary production and/or delivery,01:30p,05:00p,0,0,3.5
+3/19/2025,,Watson,Shannen,eat well All commissary Meeting!,sales,01:30p,05:00p,0,0,3.5
+3/19/2025,,Whittle,Jimina,eat well All commissary Meeting!,*KA,01:30p,05:00p,0,0,3.5
+3/19/2025,1022,Williams,Scott,eat well All commissary Meeting!,*KA,01:30p,05:00p,0,0,3.5
+3/20/2025,1145,Allen,William,CBC Muhlenkamp,*Server (All),02:30p,07:30p,0,0,5
+3/20/2025,,Bowman,Blair,CBC Muhlenkamp,*Server (All),02:30p,07:30p,0,0,5
+3/20/2025,1023,Cole,Lacy,Production Assistant,commissary production and/or delivery,09:05a,04:21p,0,0,7.27
+3/20/2025,1039,Mitchell,Martin,CBC Muhlenkamp,*Server (All),02:30p,07:30p,0,0,5
+3/20/2025,1057,Pabst,Aimee,Production Assistant,commissary production and/or delivery,09:03a,02:15p,0,0,5.2
+3/20/2025,,Peters,Jeremy,Tsivitse Bornhorfen.Seated Dinner.Tasting,Tasting Chef,01:00p,04:30p,0,0,3.5
+3/20/2025,2130,Radford,Megan,CBC Muhlenkamp,*Server (All),02:30p,07:30p,0,0,5
+3/20/2025,1028,Reis,Jess,CBC Muhlenkamp,*Chef Server (Load/Drive),01:00p,07:30p,0,0,6.5
+3/20/2025,1037,Shewmaker,Sydney,CBC Muhlenkamp,*Server (All),02:30p,07:30p,0,0,5
+3/20/2025,1006,Storm,Jamie,Tsivitse Bornhorfen.Seated Dinner.Tasting,Tasting Server,01:00p,04:30p,0,0,3.5
+3/20/2025,1007,Teal,Brad,CBC Muhlenkamp,*Captain,02:30p,08:30p,0,0,6
+3/21/2025,1145,Allen,William,Playhouse.Tomassien.SOHD,*Server (All),04:15p,09:30p,0,0,5.25
+3/21/2025,,Blackburn JTC,#NAME?,CCHMC.Finelli.seated dinner,*Server (All),03:45p,11:30p,0,0,7.75
+3/21/2025,1211,Bloomer,Sara,CCHMC.Finelli.seated dinner,*Server (All),05:00p,11:30p,0,0,6.5
+3/21/2025,,Bowman,Blair,CCHMC.Finelli.seated dinner,*Server (All),03:45p,11:30p,0,0,7.75
+3/21/2025,1353,Breitholle,Deidre,CCHMC.Finelli.seated dinner,*Server (All),03:45p,11:30p,0,0,7.75
+3/21/2025,,Briones,Tabitha,TCCCT.Howard Sebald.Seated Dinner,*Server (All),03:00p,12:00a,0,0,9
+3/21/2025,,Briones,Yasmin,TCCCT.Howard Sebald.Seated Dinner,*Server (All),03:00p,12:00a,0,0,9
+3/21/2025,1118,Brucker,Ted,CCHMC.Finelli.seated dinner,*Server (All),04:45p,11:30p,0,0,6.75
+3/21/2025,,Buller,Kelly,CCHMC.Finelli.seated dinner,*Server (All),04:45p,11:30p,0,0,6.75
+3/21/2025,,Carter,Tammy,CCHMC.Finelli.seated dinner,*Server (All),03:45p,11:30p,0,0,7.75
+3/21/2025,1356,Cephas JTC,Keonte,CCHMC.Finelli.seated dinner,*Server (All),03:45p,11:30p,0,0,7.75
+3/21/2025,2164,Cheney,Alexandria,CCHMC.Finelli.seated dinner,*Server (All),03:45p,11:30p,0,0,7.75
+3/21/2025,,Clemons,Diana,CCHMC.Finelli.seated dinner,*Server (All),03:45p,11:30p,0,0,7.75
+3/21/2025,1023,Cole,Lacy,TCCCT.Howard Sebald.Seated Dinner,*server (all) load/Drive,01:30p,11:00p,0,0,9.5
+3/21/2025,1082,Collins,Jennifer,CCHMC.Finelli.seated dinner,*KA,03:00p,09:15p,0,0,6.25
+3/21/2025,1201,Colvard,Caleana,CCHMC.Finelli.seated dinner,*KA,03:00p,09:15p,0,0,6.25
+3/21/2025,,Cusick,June (Franci),CCHMC.Finelli.seated dinner,*Server (All),03:45p,11:30p,0,0,7.75
+3/21/2025,1253,Davidson,Halona,CCHMC.Finelli.seated dinner,*Server (All),05:00p,11:30p,0,0,6.5
+3/21/2025,1042,Diebold,Crissi,CCHMC.Finelli.seated dinner,*Server (All),06:00p,11:30p,0,0,5.5
+3/21/2025,1030,Diebold,Jon,Playhouse.Tomassien.SOHD,*Chef,04:00p,08:00p,0,0,4
+3/21/2025,,Downton,Pamela,TCCCT.Howard Sebald.Seated Dinner,*Captain,03:00p,12:00a,0,0,9
+3/21/2025,1242,Estvanko,Amber,CCHMC.Finelli.seated dinner,*Server (All),03:45p,11:30p,0,0,7.75
+3/21/2025,2161,Gaines,Winston,CCHMC.Finelli.seated dinner,*Server (All),03:45p,11:30p,0,0,7.75
+3/21/2025,1019,Genetti,Greg,CCHMC.Finelli.seated dinner,*Chef,03:00p,09:15p,0,0,6.25
+3/21/2025,1152,Goodpaster,Chris,CCHMC.Finelli.seated dinner,*Server (All),03:45p,11:30p,0,0,7.75
+3/21/2025,1013,Gugino,Gabriella,CCHMC.Finelli.seated dinner,*Server (All),03:45p,11:30p,0,0,7.75
+3/21/2025,1052,Gugino,Sophia,CCHMC.Finelli.seated dinner,*Server (All),03:45p,11:30p,0,0,7.75
+3/21/2025,1325,Hackler-JTC,#NAME?,CCHMC.Finelli.seated dinner,*Server (All),03:45p,11:30p,0,0,7.75
+3/21/2025,2155,Hagen JTC,Nicholas,CCHMC.Finelli.seated dinner,*Server (All),04:45p,11:30p,0,0,6.75
+3/21/2025,2042,Harris,Wayne,CCHMC.Finelli.seated dinner,*Server (All),04:00p,11:30p,0,0,7.5
+3/21/2025,1275,Haubner,Isaac,CCHMC.Finelli.seated dinner,*Server (All),03:45p,11:30p,0,0,7.75
+3/21/2025,1236,Hensley,Diana,TCCCT.Howard Sebald.Seated Dinner,*Bartender/Server,03:00p,12:00a,0,0,9
+3/21/2025,1352,Henson,Denise,Playhouse.Tomassien.SOHD,*Server (All),04:00p,10:00p,0,0,6
+3/21/2025,,Humphrey,Pamela,TCCCT.Howard Sebald.Seated Dinner,*Server (All),03:00p,12:00a,0,0,9
+3/21/2025,2103,Jones,Tkyah,CCHMC.Finelli.seated dinner,*Server (All),03:45p,11:30p,0,0,7.75
+3/21/2025,1206,Jones,Tre' Von,Playhouse.Tomassien.SOHD,*KA,04:00p,08:00p,0,0,4
+3/21/2025,1243,Killion,Nicole,CCHMC.Finelli.seated dinner,*Server (All),06:00p,11:30p,0,0,5.5
+3/21/2025,2100,Kinkele,Kari,CCHMC.Finelli.seated dinner,*Server (All),03:45p,11:30p,0,0,7.75
+3/21/2025,1014,Kirschner,Steven,Schwarz Katz.Dinner Buffet,*Server (All),04:00p,11:00p,0,0,7
+3/21/2025,2152,Kruthaupt,Stephanie,CCHMC.Finelli.seated dinner,*Server (All),03:45p,11:30p,0,0,7.75
+3/21/2025,,Kulikowski,Eloise,CCHMC.Finelli.seated dinner,*Server (All),03:45p,11:30p,0,0,7.75
+3/21/2025,,Lawson,Scott,CCHMC.Finelli.seated dinner,*Captain,02:30p,11:30p,0,0,9
+3/21/2025,1034,Leahy,Andy,CCHMC.Finelli.seated dinner,*KA,03:00p,09:15p,0,0,6.25
+3/21/2025,1245,Lee,Charles,CCHMC.Finelli.seated dinner,*Server (All),03:45p,11:30p,0,0,7.75
+3/21/2025,2137,Littelmann,Tracy,Playhouse.Tomassien.SOHD,*Server (All),04:00p,10:00p,0,0,6
+3/21/2025,,Lynch,Jennifer,CCHMC.Finelli.seated dinner,*Server (All),05:00p,11:30p,0,0,6.5
+3/21/2025,,Maley,Daniel,CCHMC.Finelli.seated dinner,*Server (All),04:30p,11:30p,0,0,7
+3/21/2025,1055,Martin,Sam,CCHMC Setup,*Chef,10:00a,01:00p,0,0,3
+3/21/2025,1055,Martin,Sam,CCHMC.Finelli.seated dinner,*Chef,03:00p,09:15p,0,0,6.25
+3/21/2025,2127,Mayer JTC,David,CCHMC.Finelli.seated dinner,*Server (All),03:45p,11:30p,0,0,7.75
+3/21/2025,2165,McGraw,Lisa,CCHMC Setup,*Server (All),09:00a,01:00p,0,0,4
+3/21/2025,2165,McGraw,Lisa,TCCCT.Howard Sebald.Seated Dinner,*Server (All),03:00p,09:15p,0,0,6.25
+3/21/2025,1062,McKenzie,Jacob,CCHMC.Finelli.seated dinner,*KA,03:00p,09:15p,0,0,6.25
+3/21/2025,1138,McKenzie,Jasmin,CCHMC.Finelli.seated dinner,*KA,03:00p,09:15p,0,0,6.25
+3/21/2025,1039,Mitchell,Martin,CCHMC.Finelli.seated dinner,*Server (All),04:30p,11:30p,0,0,7
+3/21/2025,1729,Morgan,Meagan,CCHMC.Finelli.seated dinner,*Server (All),03:45p,11:30p,0,0,7.75
+3/21/2025,1017,Murray,Maureen,CCHMC Setup,event manager,09:00a,01:00p,0,0,4
+3/21/2025,1044,Norris,Melissa,CCHMC.Finelli.seated dinner,*Server (All),03:45p,12:30a,0,0,8.75
+3/21/2025,,Nunnally,Courtney,CCHMC.Finelli.seated dinner,*Server (All),05:30p,11:30p,0,0,6
+3/21/2025,1057,Pabst,Aimee,CCHMC Setup,*Server (All),08:00a,02:00p,0,0,6
+3/21/2025,1057,Pabst,Aimee,CCHMC.Finelli.seated dinner,*Server (All),03:45p,11:30p,0,0,7.75
+3/21/2025,1045,Perez,Ana,CCHMC Setup,*KA,10:00a,01:00p,0,0,3
+3/21/2025,1045,Perez,Ana,CCHMC.Finelli.seated dinner,*KA,03:00p,09:15p,0,0,6.25
+3/21/2025,1163,Perez,Marysabel,CCHMC.Finelli.seated dinner,*Server (All),03:30p,11:30p,0,0,8
+3/21/2025,,Peters,Jeremy,CCHMC.Finelli.seated dinner,*KA,03:00p,09:15p,0,0,6.25
+3/21/2025,1328,Phillips,Ginger,CCHMC.Finelli.seated dinner,*Server (All),03:45p,09:30p,0,0,5.75
+3/21/2025,1231,Pickett,Kulaya,CCHMC.Finelli.seated dinner,*Server (All),03:45p,11:30p,0,0,7.75
+3/21/2025,1226,Przekop,Nathan,TCCCT.Howard Sebald.Seated Dinner,*KA,03:00p,08:30p,0,0,5.5
+3/21/2025,2130,Radford,Megan,Schwarz Katz.Dinner Buffet,*Server (All),03:45p,11:00p,0,0,7.25
+3/21/2025,2111,Ramirez,Gilberto,CCHMC.Finelli.seated dinner,*Server (All),03:00p,12:30a,0,0,9.5
+3/21/2025,1058,Read,Brennan,CCHMC Setup,*KA,10:00a,01:00p,0,0,3
+3/21/2025,1058,Read,Brennan,CCHMC.Finelli.seated dinner,*KA,03:00p,09:15p,0,0,6.25
+3/21/2025,1028,Reis,Jess,CCHMC.Finelli.seated dinner,*Captain,10:30a,12:00a,0,0,13.5
+3/21/2025,1289,Renner,Isaac,Playhouse.Tomassien.SOHD,*Server (All),04:00p,10:00p,0,0,6
+3/21/2025,1278,Renner,Noah,Playhouse.Tomassien.SOHD,*Server (All),04:00p,10:00p,0,0,6
+3/21/2025,1374,Robbins,Lisa,TCCCT.Howard Sebald.Seated Dinner,*Bartender/Server,03:00p,12:00a,0,0,9
+3/21/2025,,Roberts,Steven,CCHMC.Finelli.seated dinner,*KA,03:00p,09:15p,0,0,6.25
+3/21/2025,1232,Schiegenberg,Marion,Schwarz Katz.Dinner Buffet,*Bartender/Server,04:00p,10:00p,0,0,6
+3/21/2025,1037,Shewmaker,Sydney,CCHMC.Finelli.seated dinner,*server (all) load/Drive,01:30p,12:30a,0,0,11
+3/21/2025,1091,Smith,Zathian,CCHMC.Finelli.seated dinner,*KA,03:00p,09:15p,0,0,6.25
+3/21/2025,1217,Smith-Barkley,Zachary,CCHMC.Finelli.seated dinner,*Server (All),04:45p,11:30p,0,0,6.75
+3/21/2025,1237,Stickrod,Stacie,CCHMC.Finelli.seated dinner,*Captain,09:00a,11:30p,0,0,14.5
+3/21/2025,1025,Stone,Nick,CCHMC.Finelli.seated dinner,*Server (All),05:00p,11:30p,0,0,6.5
+3/21/2025,1006,Storm,Jamie,Playhouse.Tomassien.SOHD,Captain-Load/Drive,02:30p,10:00p,0,0,7.5
+3/21/2025,2107,Stutler,Donovan,CCHMC.Finelli.seated dinner,*Server (All),03:45p,11:30p,0,0,7.75
+3/21/2025,1007,Teal,Brad,Schwarz Katz.Dinner Buffet,*Chef Server (Load/Drive),02:30p,11:15p,0,0,8.75
+3/21/2025,1143,Walker,Wendell,CCHMC.Finelli.seated dinner,*server (all) load/Drive,01:30p,12:30a,0,0,11
+3/21/2025,1022,Williams,Scott,TCCCT.Howard Sebald.Seated Dinner,*Chef,03:00p,08:30p,0,0,5.5
+3/21/2025,,Xayavong JTC,#NAME?,CCHMC.Finelli.seated dinner,*Server (All),03:45p,11:30p,0,0,7.75
+3/22/2025,,Briones,Tabitha,TCCCT.Schwarz Katz.Seated Dinner,*Server (All),03:00p,11:30p,0,0,8.5
+3/22/2025,,Briones,Yasmin,TCCCT.Schwarz Katz.Seated Dinner,*Server (All),03:00p,11:30p,0,0,8.5
+3/22/2025,1023,Cole,Lacy,TCCCT.Schwarz Katz.Seated Dinner,Bartender - Load & Drive,01:30p,12:00a,0,0,10.5
+3/22/2025,,Downton,Pamela,TCCCT.Schwarz Katz.Seated Dinner,Server (All)+Load/Driver T,01:30p,12:00a,0,0,10.5
+3/22/2025,1242,Estvanko,Amber,TCCCT.Schwarz Katz.Seated Dinner,*Server (All),03:00p,11:30p,0,0,8.5
+3/22/2025,,Humphrey,Pamela,TCCCT.Schwarz Katz.Seated Dinner,*Server (All),03:00p,11:30p,0,0,8.5
+3/22/2025,1004,Jacobs,Brittani,TCCCT.Schwarz Katz.Seated Dinner,*Bartender/Server,03:00p,11:30p,0,0,8.5
+3/22/2025,2100,Kinkele,Kari,TCCCT.Schwarz Katz.Seated Dinner,*Server (All),03:00p,11:30p,0,0,8.5
+3/22/2025,,Kulikowski,Eloise,TCCCT.Schwarz Katz.Seated Dinner,*Server (All),03:00p,11:30p,0,0,8.5
+3/22/2025,1062,McKenzie,Jacob,TCCCT.Schwarz Katz.Seated Dinner,*Chef,03:00p,09:30p,0,0,6.5
+3/22/2025,,Peters,Jeremy,TCCCT.Schwarz Katz.Seated Dinner,*KA,03:00p,09:30p,0,0,6.5
+3/22/2025,1374,Robbins,Lisa,TCCCT.Schwarz Katz.Seated Dinner,*Server (All),03:00p,11:30p,0,0,8.5
+3/22/2025,1237,Stickrod,Stacie,TCCCT.Schwarz Katz.Seated Dinner,*Captain,03:00p,12:00a,0,0,9
+3/24/2025,1023,Cole,Lacy,Production Assistant,commissary production and/or delivery,09:06a,04:07p,0,0,7.02
+3/26/2025,1063,Barton,Marlee,Production Assistant,commissary production and/or delivery,08:31a,03:01p,0,0,6.5
+3/26/2025,1023,Cole,Lacy,Production Assistant,commissary production and/or delivery,10:05a,05:29p,0,0,7.4
+3/27/2025,1063,Barton,Marlee,Production Assistant,commissary production and/or delivery,05:45a,09:42a,0,0,3.95
+3/27/2025,1019,Genetti,Greg,TAP Chaiken Lifter & Coleman,Tasting Chef,11:00a,03:30p,0,0,4.5
+3/27/2025,1028,Reis,Jess,TAP Chaiken Lifter & Coleman,Tasting Server,11:00a,04:30p,0,0,5.5
+3/28/2025,1023,Cole,Lacy,Production Assistant,commissary production and/or delivery,09:08a,04:33p,0,0,7.42
+3/28/2025,1019,Genetti,Greg,*TASTING.Tanpiengco-Phlips.Seated Dinner.6ppl,*Chef,01:30p,05:30p,0,0,4
+3/28/2025,1028,Reis,Jess,*TASTING.Tanpiengco-Phlips.Seated Dinner.6ppl,Tasting Server,01:30p,05:30p,0,0,4
+3/29/2025,,Bowman,Blair,TCCCT.Truman Skupnik.Seated Dinner,*server (all) load/Drive,01:00p,12:00a,0,0,11
+3/29/2025,,Briones,Tabitha,TCCCT.Truman Skupnik.Seated Dinner,*Server (All),02:30p,11:15p,0,0,8.75
+3/29/2025,,Downton,Pamela,TCCCT.Truman Skupnik.Seated Dinner,*Captain,02:30p,11:15p,0,0,8.75
+3/29/2025,1239,Duerk,Susan,TCCCT.Truman Skupnik.Seated Dinner,*Bartender/Server,02:30p,11:15p,0,0,8.75
+3/29/2025,1242,Estvanko,Amber,TCCCT.Truman Skupnik.Seated Dinner,*Server (All),02:40p,11:15p,0,0,8.58
+3/29/2025,2161,Gaines,Winston,TCCCT.Truman Skupnik.Seated Dinner,*KA,02:30p,08:45p,0,0,6.25
+3/29/2025,1325,Hackler-JTC,#NAME?,TCCCT.Truman Skupnik.Seated Dinner,*Server (All),02:30p,11:15p,0,0,8.75
+3/29/2025,1236,Hensley,Diana,TCCCT.Truman Skupnik.Seated Dinner,*Bartender/Server,02:30p,11:15p,0,0,8.75
+3/29/2025,,Humphrey,Pamela,TCCCT.Truman Skupnik.Seated Dinner,*Server (All),02:30p,12:00a,0,0,0
+3/29/2025,2100,Kinkele,Kari,TCCCT.Truman Skupnik.Seated Dinner,*Server (All),02:30p,11:15p,0,0,8.75
+3/29/2025,1245,Lee,Charles,TCCCT.Truman Skupnik.Seated Dinner,*Server (All),02:30p,11:15p,0,0,8.75
+3/29/2025,,Peters,Jeremy,TCCCT.Truman Skupnik.Seated Dinner,*KA,02:30p,08:45p,0,0,6.25
+3/29/2025,1058,Read,Brennan,TCCCT.Truman Skupnik.Seated Dinner,*Chef,02:30p,08:45p,0,0,6.25
+3/29/2025,1374,Robbins,Lisa,TCCCT.Truman Skupnik.Seated Dinner,*Server (All),02:30p,11:15p,0,0,8.75
